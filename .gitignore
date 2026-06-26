@@ -1,0 +1,5 @@
+# Side-output DBs the parsers emit (we only publish the rule-set folders)
+*.db
+
+# Local Claude Code guidance (not tracked)
+CLAUDE.md
