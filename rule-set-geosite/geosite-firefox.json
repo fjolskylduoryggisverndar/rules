@@ -1,0 +1,21 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "mozilla-ohttp.fastly-edge.com",
+                "extendfirefox.com",
+                "firefox.com",
+                "firefox.hu",
+                "firefoxtweetmachine.com",
+                "firefoxusercontent.com"
+            ],
+            "domain_suffix": [
+                ".extendfirefox.com",
+                ".firefox.com",
+                ".firefox.hu",
+                ".firefoxtweetmachine.com",
+                ".firefoxusercontent.com"
+            ]
+        }
+    ]
+}

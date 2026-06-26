@@ -1,0 +1,20 @@
+{
+    "rules": [
+        {
+            "domain": [
+                "tilda.cc",
+                "tilda.ru",
+                "tilda.ws",
+                "tildaapi.com",
+                "tildacdn.com"
+            ],
+            "domain_suffix": [
+                ".tilda.cc",
+                ".tilda.ru",
+                ".tilda.ws",
+                ".tildaapi.com",
+                ".tildacdn.com"
+            ]
+        }
+    ]
+}
