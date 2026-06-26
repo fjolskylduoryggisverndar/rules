@@ -15,9 +15,6 @@ concurrency:
   group: ci
   cancel-in-progress: false
 
-env:
-  TOOLS_RELEASE: https://github.com/fjolskylduoryggisverndar/tools/releases/latest/download
-
 jobs:
   update:
     name: Generate and commit rule-sets
@@ -32,9 +29,19 @@ jobs:
           WORK="$(mktemp -d)"
           trap 'rm -rf "$WORK"' EXIT
 
-          echo "==> Downloading parser binaries from tools/latest"
-          curl -fSL --retry 3 -o "$WORK/sing-geosite" "$TOOLS_RELEASE/sing-geosite-linux-amd64"
-          curl -fSL --retry 3 -o "$WORK/sing-geoip"   "$TOOLS_RELEASE/sing-geoip-linux-amd64"
+          echo "==> Resolving latest tools release"
+          RELEASE_INFO=$(curl -s https://api.github.com/repos/${{ secrets.UPSTREAM_REPO }}/releases/latest)
+          geosite_url=$(printf '%s' "$RELEASE_INFO" | jq -r '.assets[] | select(.name == "sing-geosite-linux-amd64") | .browser_download_url')
+          geoip_url=$(printf '%s' "$RELEASE_INFO" | jq -r '.assets[] | select(.name == "sing-geoip-linux-amd64") | .browser_download_url')
+          if [ -z "$geosite_url" ] || [ -z "$geoip_url" ]; then
+            echo "Failed to resolve tool binary URLs from latest release:"
+            printf '%s\n' "$RELEASE_INFO" | head -30
+            exit 1
+          fi
+
+          echo "==> Downloading parser binaries"
+          curl -fSL --retry 3 -o "$WORK/sing-geosite" "$geosite_url"
+          curl -fSL --retry 3 -o "$WORK/sing-geoip"   "$geoip_url"
           chmod +x "$WORK/sing-geosite" "$WORK/sing-geoip"
 
           echo "==> Generating geosite rule-set"
