@@ -1,0 +1,66 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ci
+  cancel-in-progress: false
+
+env:
+  TOOLS_RELEASE: https://github.com/fjolskylduoryggisverndar/tools/releases/latest/download
+
+jobs:
+  update:
+    name: Generate and commit rule-sets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build rule-sets
+        run: |
+          set -euo pipefail
+          WORK="$(mktemp -d)"
+          trap 'rm -rf "$WORK"' EXIT
+
+          echo "==> Downloading parser binaries from tools/latest"
+          curl -fSL --retry 3 -o "$WORK/sing-geosite" "$TOOLS_RELEASE/sing-geosite-linux-amd64"
+          curl -fSL --retry 3 -o "$WORK/sing-geoip"   "$TOOLS_RELEASE/sing-geoip-linux-amd64"
+          chmod +x "$WORK/sing-geosite" "$WORK/sing-geoip"
+
+          echo "==> Generating geosite rule-set"
+          mkdir -p "$WORK/geosite"
+          ( cd "$WORK/geosite" && NO_SKIP=true "$WORK/sing-geosite" )
+
+          echo "==> Generating geoip rule-set"
+          mkdir -p "$WORK/geoip"
+          ( cd "$WORK/geoip" && NO_SKIP=true "$WORK/sing-geoip" )
+
+          echo "==> Refreshing rule-set folders"
+          rm -rf rule-set-geosite rule-set-geoip
+          mkdir -p rule-set-geosite rule-set-geoip
+          cp -a "$WORK/geosite/rule-set/." rule-set-geosite/
+          cp -a "$WORK/geoip/rule-set/."   rule-set-geoip/
+
+          echo "==> geosite: $(find rule-set-geosite -type f | wc -l | tr -d ' ') files, geoip: $(find rule-set-geoip -type f | wc -l | tr -d ' ') files"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rule-set-geoip rule-set-geosite
+          if git diff --cached --quiet; then
+            echo "No rule-set changes."
+          else
+            git commit -m "Update rule-sets ($(date -u +%Y-%m-%d))"
+            git push
+          fi
