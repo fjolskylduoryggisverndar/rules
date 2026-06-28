@@ -5,13 +5,15 @@
                 "hecdn.net",
                 "heweather.net",
                 "qweather.com",
-                "qweather.net"
+                "qweather.net",
+                "qweatherapi.com"
             ],
             "domain_suffix": [
                 ".hecdn.net",
                 ".heweather.net",
                 ".qweather.com",
-                ".qweather.net"
+                ".qweather.net",
+                ".qweatherapi.com"
             ]
         }
     ]
