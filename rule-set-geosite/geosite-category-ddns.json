@@ -7,8 +7,6 @@
                 "nip.io",
                 "sslip.io",
                 "traefik.me",
-                "cloudns.nz",
-                "cloudns.ph",
                 "1cooldns.com",
                 "4cloud.click",
                 "accesscam.org",
@@ -112,7 +110,9 @@
                 "viewdns.net",
                 "webhop.me",
                 "workisboring.com",
-                "zapto.org"
+                "zapto.org",
+                "cloudns.nz",
+                "cloudns.ph"
             ],
             "domain_suffix": [
                 ".dpdns.org",
@@ -120,8 +120,6 @@
                 ".nip.io",
                 ".sslip.io",
                 ".traefik.me",
-                ".cloudns.nz",
-                ".cloudns.ph",
                 ".1cooldns.com",
                 ".4cloud.click",
                 ".accesscam.org",
@@ -225,7 +223,9 @@
                 ".viewdns.net",
                 ".webhop.me",
                 ".workisboring.com",
-                ".zapto.org"
+                ".zapto.org",
+                ".cloudns.nz",
+                ".cloudns.ph"
             ]
         }
     ]
