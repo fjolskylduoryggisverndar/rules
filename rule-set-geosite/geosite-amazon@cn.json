@@ -26,6 +26,11 @@
                 "z.cn",
                 "images-cn.ssl-images-amazon.com",
                 "images-cn-8.ssl-images-amazon.com",
+                "kindle.cn",
+                "kindleoasis.cn",
+                "kindleoasis.com.cn",
+                "amazonprimevideo.cn",
+                "amazonprimevideo.com.cn",
                 "a2z.org.cn",
                 "amazonaws.cn",
                 "amazonaws.com.cn",
@@ -51,12 +56,7 @@
                 "amzndns-cn.biz",
                 "amzndns-cn.cn",
                 "amzndns-cn.com",
-                "amzndns-cn.net",
-                "kindle.cn",
-                "kindleoasis.cn",
-                "kindleoasis.com.cn",
-                "amazonprimevideo.cn",
-                "amazonprimevideo.com.cn"
+                "amzndns-cn.net"
             ],
             "domain_suffix": [
                 ".aboutamazon.cn",
@@ -81,6 +81,11 @@
                 ".primeday.com.cn",
                 ".yamaxun.cn",
                 ".z.cn",
+                ".kindle.cn",
+                ".kindleoasis.cn",
+                ".kindleoasis.com.cn",
+                ".amazonprimevideo.cn",
+                ".amazonprimevideo.com.cn",
                 ".a2z.org.cn",
                 ".amazonaws.cn",
                 ".amazonaws.com.cn",
@@ -106,12 +111,7 @@
                 ".amzndns-cn.biz",
                 ".amzndns-cn.cn",
                 ".amzndns-cn.com",
-                ".amzndns-cn.net",
-                ".kindle.cn",
-                ".kindleoasis.cn",
-                ".kindleoasis.com.cn",
-                ".amazonprimevideo.cn",
-                ".amazonprimevideo.com.cn"
+                ".amzndns-cn.net"
             ],
             "domain_regex": [
                 ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
