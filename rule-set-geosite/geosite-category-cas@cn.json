@@ -2,18 +2,8 @@
     "rules": [
         {
             "domain": [
-                "oemssl.cn",
-                "oemssl.cn.cdn.cloudflare.net",
-                "sectigochina.com",
-                "sectigochina.com.cdn.cloudflare.net",
-                "trust-provider.cn",
-                "alphassl.com",
-                "easy-signing.com",
-                "globalsign.cn",
-                "globalsign.com",
-                "globalsigncdn.com",
-                "cdn.globalsigncdn.com.cdn.cloudflare.net",
-                "crl.globalsign.net",
+                "dcocsp.cn",
+                "digicert.cn",
                 "pki-goog.l.google.com",
                 "c.pki.goog",
                 "i.pki.goog",
@@ -22,8 +12,6 @@
                 "crls.pki.goog",
                 "ocsp.pki.goog",
                 "sslcom.cn",
-                "dcocsp.cn",
-                "digicert.cn",
                 "certs-lb.apple.com.akadns.net",
                 "certs.apple.com",
                 "crl-lb.apple.com.akadns.net",
@@ -32,22 +20,34 @@
                 "ocsp2.apple.com",
                 "valid.apple.com",
                 "valid.origin-apple.com.akadns.net",
-                "www.entrust.cn"
+                "www.entrust.cn",
+                "alphassl.com",
+                "easy-signing.com",
+                "globalsign.cn",
+                "globalsign.com",
+                "globalsigncdn.com",
+                "cdn.globalsigncdn.com.cdn.cloudflare.net",
+                "crl.globalsign.net",
+                "oemssl.cn",
+                "oemssl.cn.cdn.cloudflare.net",
+                "sectigochina.com",
+                "sectigochina.com.cdn.cloudflare.net",
+                "trust-provider.cn"
             ],
             "domain_suffix": [
-                ".oemssl.cn",
-                ".oemssl.cn.cdn.cloudflare.net",
-                ".sectigochina.com",
-                ".sectigochina.com.cdn.cloudflare.net",
-                ".trust-provider.cn",
+                ".dcocsp.cn",
+                ".digicert.cn",
+                ".sslcom.cn",
                 ".alphassl.com",
                 ".easy-signing.com",
                 ".globalsign.cn",
                 ".globalsign.com",
                 ".globalsigncdn.com",
-                ".sslcom.cn",
-                ".dcocsp.cn",
-                ".digicert.cn"
+                ".oemssl.cn",
+                ".oemssl.cn.cdn.cloudflare.net",
+                ".sectigochina.com",
+                ".sectigochina.com.cdn.cloudflare.net",
+                ".trust-provider.cn"
             ]
         }
     ]

@@ -2,6 +2,7 @@
     "rules": [
         {
             "domain": [
+                "ad.cctv.com",
                 "adnet.sohu.com",
                 "ads.sohu.com",
                 "adv-sv-show.focus.cn",
@@ -17,10 +18,10 @@
                 "qpb.sohu.com",
                 "qpb1.sohu.com",
                 "reke.at.sohu.com",
-                "track.sohu.com",
-                "ad.cctv.com"
+                "track.sohu.com"
             ],
             "domain_suffix": [
+                ".ad.cctv.com",
                 ".adnet.sohu.com",
                 ".ads.sohu.com",
                 ".adv-sv-show.focus.cn",
@@ -36,8 +37,7 @@
                 ".qpb.sohu.com",
                 ".qpb1.sohu.com",
                 ".reke.at.sohu.com",
-                ".track.sohu.com",
-                ".ad.cctv.com"
+                ".track.sohu.com"
             ]
         }
     ]

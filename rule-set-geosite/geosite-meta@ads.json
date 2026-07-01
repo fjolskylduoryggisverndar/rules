@@ -2,22 +2,22 @@
     "rules": [
         {
             "domain": [
+                "graph.whatsapp.com",
+                "graph.whatsapp.net",
                 "analytics.facebook.com",
                 "facebookads.com",
                 "pixel.facebook.com",
                 "graph.instagram.com",
-                "graph-fallback.instagram.com",
-                "graph.whatsapp.com",
-                "graph.whatsapp.net"
+                "graph-fallback.instagram.com"
             ],
             "domain_suffix": [
+                ".graph.whatsapp.com",
+                ".graph.whatsapp.net",
                 ".analytics.facebook.com",
                 ".facebookads.com",
                 ".pixel.facebook.com",
                 ".graph.instagram.com",
-                ".graph-fallback.instagram.com",
-                ".graph.whatsapp.com",
-                ".graph.whatsapp.net"
+                ".graph-fallback.instagram.com"
             ]
         }
     ]
