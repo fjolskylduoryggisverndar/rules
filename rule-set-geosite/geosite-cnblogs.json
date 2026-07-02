@@ -4,6 +4,7 @@
             "domain": [
                 "blogjava.net",
                 "cnblogs.com",
+                "cnblogs.vip",
                 "cnitblog.com",
                 "cnweblog.com",
                 "cppblog.com",
@@ -13,6 +14,7 @@
             "domain_suffix": [
                 ".blogjava.net",
                 ".cnblogs.com",
+                ".cnblogs.vip",
                 ".cnitblog.com",
                 ".cnweblog.com",
                 ".cppblog.com",
