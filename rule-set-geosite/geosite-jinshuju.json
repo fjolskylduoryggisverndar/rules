@@ -3,11 +3,13 @@
         {
             "domain": [
                 "jinshuju.net",
-                "jinshujucdn.com"
+                "jinshujucdn.com",
+                "jsj.top"
             ],
             "domain_suffix": [
                 ".jinshuju.net",
-                ".jinshujucdn.com"
+                ".jinshujucdn.com",
+                ".jsj.top"
             ]
         }
     ]

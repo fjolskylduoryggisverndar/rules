@@ -2,6 +2,7 @@
     "rules": [
         {
             "domain": [
+                "csis-prod.s3.amazonaws.com",
                 "a.ppy.sh",
                 "assets.ppy.sh",
                 "c.ppy.sh",
@@ -11,7 +12,6 @@
                 "notify.ppy.sh",
                 "sentry.ppy.sh",
                 "spectator.ppy.sh",
-                "csis-prod.s3.amazonaws.com",
                 "aomedia.org",
                 "atypi.org",
                 "change.org",
@@ -27,6 +27,8 @@
                 "who.int",
                 "wi-fi.org",
                 "wto.org",
+                "nist.gov",
+                "time.gov",
                 "openmaps.org",
                 "openstreetmap.com",
                 "openstreetmap.net",
@@ -36,9 +38,7 @@
                 "osmfoundation.org",
                 "stateofthemap.com",
                 "stateofthemap.org",
-                "ppy.sh",
-                "rolfoundation.org",
-                "rolsociety.org",
+                "paskoocheh.com",
                 "ccstatic.org",
                 "creativecommons.org",
                 "creativecommons.engineering",
@@ -130,9 +130,9 @@
                 "grapheneos.social",
                 "seamlessupdate.app",
                 "vanadium.app",
-                "nist.gov",
-                "time.gov",
-                "paskoocheh.com"
+                "ppy.sh",
+                "rolfoundation.org",
+                "rolsociety.org"
             ],
             "domain_suffix": [
                 ".aomedia.org",
@@ -150,6 +150,8 @@
                 ".who.int",
                 ".wi-fi.org",
                 ".wto.org",
+                ".nist.gov",
+                ".time.gov",
                 ".openmaps.org",
                 ".openstreetmap.com",
                 ".openstreetmap.net",
@@ -159,9 +161,7 @@
                 ".osmfoundation.org",
                 ".stateofthemap.com",
                 ".stateofthemap.org",
-                ".ppy.sh",
-                ".rolfoundation.org",
-                ".rolsociety.org",
+                ".paskoocheh.com",
                 ".ccstatic.org",
                 ".creativecommons.org",
                 ".creativecommons.engineering",
@@ -253,9 +253,9 @@
                 ".grapheneos.social",
                 ".seamlessupdate.app",
                 ".vanadium.app",
-                ".nist.gov",
-                ".time.gov",
-                ".paskoocheh.com"
+                ".ppy.sh",
+                ".rolfoundation.org",
+                ".rolsociety.org"
             ]
         }
     ]
