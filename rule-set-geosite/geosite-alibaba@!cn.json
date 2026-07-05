@@ -12,6 +12,8 @@
                 "alipaymo.com",
                 "tmall.ru",
                 "fliggy.hk",
+                "youku.tv",
+                "youkuplay.com",
                 "ap-southeast-1.aliyuncs.com",
                 "oss-ap-northeast-1.aliyuncs.com",
                 "oss-ap-northeast-2.aliyuncs.com",
@@ -35,9 +37,7 @@
                 "alibabacloud.com.my",
                 "alibabacloud.com.sg",
                 "alibabacloud.com.tw",
-                "alicloud.com",
-                "youku.tv",
-                "youkuplay.com"
+                "alicloud.com"
             ],
             "domain_suffix": [
                 ".alihealth.hk",
@@ -50,6 +50,8 @@
                 ".alipaymo.com",
                 ".tmall.ru",
                 ".fliggy.hk",
+                ".youku.tv",
+                ".youkuplay.com",
                 ".ap-southeast-1.aliyuncs.com",
                 ".oss-ap-northeast-1.aliyuncs.com",
                 ".oss-ap-northeast-2.aliyuncs.com",
@@ -73,9 +75,7 @@
                 ".alibabacloud.com.my",
                 ".alibabacloud.com.sg",
                 ".alibabacloud.com.tw",
-                ".alicloud.com",
-                ".youku.tv",
-                ".youkuplay.com"
+                ".alicloud.com"
             ]
         }
     ]
