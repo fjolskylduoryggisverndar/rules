@@ -14,13 +14,11 @@
                 "mariokart.cn",
                 "mariokart.com.cn",
                 "supermariobros.com.cn",
+                "yostar.cn",
                 "leagueoflegends.cn",
                 "lpl.com.cn",
                 "gog.qtlglb.com",
                 "uplaypc-s-ubisoft.cdn.ubi.com",
-                "yostar.cn",
-                "xboxlive.cn",
-                "bluearchive-cn.com",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -37,7 +35,9 @@
                 "lv.queniujq.cn",
                 "xz.pphimalayanrt.com",
                 "steamchina.com",
-                "gstore.val.manlaxy.com"
+                "gstore.val.manlaxy.com",
+                "bluearchive-cn.com",
+                "xboxlive.cn"
             ],
             "domain_suffix": [
                 ".legendofzelda.cn",
@@ -52,11 +52,9 @@
                 ".mariokart.cn",
                 ".mariokart.com.cn",
                 ".supermariobros.com.cn",
+                ".yostar.cn",
                 ".leagueoflegends.cn",
                 ".lpl.com.cn",
-                ".yostar.cn",
-                ".xboxlive.cn",
-                ".bluearchive-cn.com",
                 ".csgo.com.cn",
                 ".csgo.wmsj.cn",
                 ".dota2.com.cn",
@@ -70,7 +68,9 @@
                 ".steampowered.com.8686c.com",
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
-                ".gstore.val.manlaxy.com"
+                ".gstore.val.manlaxy.com",
+                ".bluearchive-cn.com",
+                ".xboxlive.cn"
             ],
             "domain_regex": [
                 "^.+-mihayo\\.akamaized\\.net$",

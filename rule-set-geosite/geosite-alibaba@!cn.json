@@ -12,6 +12,14 @@
                 "alipaymo.com",
                 "tmall.ru",
                 "fliggy.hk",
+                "alibabacloud.co.in",
+                "alibabacloud.com",
+                "alibabacloud.com.au",
+                "alibabacloud.com.hk",
+                "alibabacloud.com.my",
+                "alibabacloud.com.sg",
+                "alibabacloud.com.tw",
+                "alicloud.com",
                 "ap-southeast-1.aliyuncs.com",
                 "oss-ap-northeast-1.aliyuncs.com",
                 "oss-ap-northeast-2.aliyuncs.com",
@@ -29,15 +37,7 @@
                 "oss-us-east-1.aliyuncs.com",
                 "oss-us-west-1.aliyuncs.com",
                 "youku.tv",
-                "youkuplay.com",
-                "alibabacloud.co.in",
-                "alibabacloud.com",
-                "alibabacloud.com.au",
-                "alibabacloud.com.hk",
-                "alibabacloud.com.my",
-                "alibabacloud.com.sg",
-                "alibabacloud.com.tw",
-                "alicloud.com"
+                "youkuplay.com"
             ],
             "domain_suffix": [
                 ".alihealth.hk",
@@ -50,6 +50,14 @@
                 ".alipaymo.com",
                 ".tmall.ru",
                 ".fliggy.hk",
+                ".alibabacloud.co.in",
+                ".alibabacloud.com",
+                ".alibabacloud.com.au",
+                ".alibabacloud.com.hk",
+                ".alibabacloud.com.my",
+                ".alibabacloud.com.sg",
+                ".alibabacloud.com.tw",
+                ".alicloud.com",
                 ".ap-southeast-1.aliyuncs.com",
                 ".oss-ap-northeast-1.aliyuncs.com",
                 ".oss-ap-northeast-2.aliyuncs.com",
@@ -67,15 +75,7 @@
                 ".oss-us-east-1.aliyuncs.com",
                 ".oss-us-west-1.aliyuncs.com",
                 ".youku.tv",
-                ".youkuplay.com",
-                ".alibabacloud.co.in",
-                ".alibabacloud.com",
-                ".alibabacloud.com.au",
-                ".alibabacloud.com.hk",
-                ".alibabacloud.com.my",
-                ".alibabacloud.com.sg",
-                ".alibabacloud.com.tw",
-                ".alicloud.com"
+                ".youkuplay.com"
             ]
         }
     ]
