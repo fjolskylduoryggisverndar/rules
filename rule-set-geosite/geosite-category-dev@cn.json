@@ -11,11 +11,11 @@
                 "researchkit.com.cn",
                 "swiftui.cn",
                 "swiftui.com.cn",
+                "jetbrains.com.cn",
+                "cdn.jetbrains.com",
                 "crashlyticsreports-pa.googleapis.com",
                 "firebase-settings.crashlytics.com",
-                "update.crashlytics.com",
-                "jetbrains.com.cn",
-                "cdn.jetbrains.com"
+                "update.crashlytics.com"
             ],
             "domain_suffix": [
                 ".microsoftreactor.cn",
