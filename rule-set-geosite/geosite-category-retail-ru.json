@@ -35,6 +35,8 @@
                 "sushiwok.ru",
                 "winelab.ru",
                 "vkusvill.ru",
+                "oskelly.co",
+                "oskelly.ru",
                 "5ka.ru",
                 "5post.market",
                 "abonementx5.ru",
@@ -75,8 +77,6 @@
                 "mm.ru",
                 "acmvid.com",
                 "mvideo.ru",
-                "oskelly.co",
-                "oskelly.ru",
                 "ads.x5.ru",
                 "ads.x5media.ru",
                 "sentry.x5.ru"
@@ -114,6 +114,8 @@
                 ".sushiwok.ru",
                 ".winelab.ru",
                 ".vkusvill.ru",
+                ".oskelly.co",
+                ".oskelly.ru",
                 ".5ka.ru",
                 ".5post.market",
                 ".abonementx5.ru",
@@ -153,9 +155,7 @@
                 ".magnit.ru",
                 ".mm.ru",
                 ".acmvid.com",
-                ".mvideo.ru",
-                ".oskelly.co",
-                ".oskelly.ru"
+                ".mvideo.ru"
             ]
         }
     ]
