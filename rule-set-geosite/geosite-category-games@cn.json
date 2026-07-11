@@ -2,9 +2,6 @@
     "rules": [
         {
             "domain": [
-                "yostar.cn",
-                "xboxlive.cn",
-                "gog.qtlglb.com",
                 "leagueoflegends.cn",
                 "lpl.com.cn",
                 "csgo.com.cn",
@@ -24,7 +21,11 @@
                 "xz.pphimalayanrt.com",
                 "steamchina.com",
                 "gstore.val.manlaxy.com",
+                "gog.qtlglb.com",
+                "uplaypc-s-ubisoft.cdn.ubi.com",
+                "yostar.cn",
                 "bluearchive-cn.com",
+                "xboxlive.cn",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
                 "miitomo.com.cn",
@@ -36,12 +37,9 @@
                 "xn--mts47c3w9b1qr.cn",
                 "mariokart.cn",
                 "mariokart.com.cn",
-                "supermariobros.com.cn",
-                "uplaypc-s-ubisoft.cdn.ubi.com"
+                "supermariobros.com.cn"
             ],
             "domain_suffix": [
-                ".yostar.cn",
-                ".xboxlive.cn",
                 ".leagueoflegends.cn",
                 ".lpl.com.cn",
                 ".csgo.com.cn",
@@ -58,7 +56,9 @@
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
                 ".gstore.val.manlaxy.com",
+                ".yostar.cn",
                 ".bluearchive-cn.com",
+                ".xboxlive.cn",
                 ".legendofzelda.cn",
                 ".legendofzelda.com.cn",
                 ".miitomo.com.cn",
