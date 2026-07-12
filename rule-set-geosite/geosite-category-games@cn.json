@@ -2,8 +2,6 @@
     "rules": [
         {
             "domain": [
-                "leagueoflegends.cn",
-                "lpl.com.cn",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -22,10 +20,6 @@
                 "steamchina.com",
                 "gstore.val.manlaxy.com",
                 "gog.qtlglb.com",
-                "uplaypc-s-ubisoft.cdn.ubi.com",
-                "yostar.cn",
-                "bluearchive-cn.com",
-                "xboxlive.cn",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
                 "miitomo.com.cn",
@@ -37,11 +31,15 @@
                 "xn--mts47c3w9b1qr.cn",
                 "mariokart.cn",
                 "mariokart.com.cn",
-                "supermariobros.com.cn"
+                "supermariobros.com.cn",
+                "yostar.cn",
+                "uplaypc-s-ubisoft.cdn.ubi.com",
+                "bluearchive-cn.com",
+                "xboxlive.cn",
+                "leagueoflegends.cn",
+                "lpl.com.cn"
             ],
             "domain_suffix": [
-                ".leagueoflegends.cn",
-                ".lpl.com.cn",
                 ".csgo.com.cn",
                 ".csgo.wmsj.cn",
                 ".dota2.com.cn",
@@ -56,9 +54,6 @@
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
                 ".gstore.val.manlaxy.com",
-                ".yostar.cn",
-                ".bluearchive-cn.com",
-                ".xboxlive.cn",
                 ".legendofzelda.cn",
                 ".legendofzelda.com.cn",
                 ".miitomo.com.cn",
@@ -70,7 +65,12 @@
                 ".xn--mts47c3w9b1qr.cn",
                 ".mariokart.cn",
                 ".mariokart.com.cn",
-                ".supermariobros.com.cn"
+                ".supermariobros.com.cn",
+                ".yostar.cn",
+                ".bluearchive-cn.com",
+                ".xboxlive.cn",
+                ".leagueoflegends.cn",
+                ".lpl.com.cn"
             ],
             "domain_regex": [
                 "^.+-mihayo\\.akamaized\\.net$",
