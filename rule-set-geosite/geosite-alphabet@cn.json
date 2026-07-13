@@ -114,9 +114,6 @@
                 "www.destinationurl.com",
                 "www.gstatic.com",
                 "www.pxcc.com",
-                "crashlyticsreports-pa.googleapis.com",
-                "firebase-settings.crashlytics.com",
-                "update.crashlytics.com",
                 "redirector.c.play.google.com",
                 "pki-goog.l.google.com",
                 "c.pki.goog",
@@ -125,7 +122,10 @@
                 "crl.pki.goog",
                 "crls.pki.goog",
                 "ocsp.pki.goog",
-                "ggpht.cn"
+                "ggpht.cn",
+                "crashlyticsreports-pa.googleapis.com",
+                "firebase-settings.crashlytics.com",
+                "update.crashlytics.com"
             ],
             "domain_suffix": [
                 ".google.cn",
