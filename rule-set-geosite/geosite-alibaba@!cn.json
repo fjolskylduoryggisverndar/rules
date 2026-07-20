@@ -14,14 +14,6 @@
                 "fliggy.hk",
                 "youku.tv",
                 "youkuplay.com",
-                "alibabacloud.co.in",
-                "alibabacloud.com",
-                "alibabacloud.com.au",
-                "alibabacloud.com.hk",
-                "alibabacloud.com.my",
-                "alibabacloud.com.sg",
-                "alibabacloud.com.tw",
-                "alicloud.com",
                 "ap-southeast-1.aliyuncs.com",
                 "oss-ap-northeast-1.aliyuncs.com",
                 "oss-ap-northeast-2.aliyuncs.com",
@@ -37,7 +29,15 @@
                 "oss-eu-west-1.aliyuncs.com",
                 "oss-me-east-1.aliyuncs.com",
                 "oss-us-east-1.aliyuncs.com",
-                "oss-us-west-1.aliyuncs.com"
+                "oss-us-west-1.aliyuncs.com",
+                "alibabacloud.co.in",
+                "alibabacloud.com",
+                "alibabacloud.com.au",
+                "alibabacloud.com.hk",
+                "alibabacloud.com.my",
+                "alibabacloud.com.sg",
+                "alibabacloud.com.tw",
+                "alicloud.com"
             ],
             "domain_suffix": [
                 ".alihealth.hk",
@@ -52,14 +52,6 @@
                 ".fliggy.hk",
                 ".youku.tv",
                 ".youkuplay.com",
-                ".alibabacloud.co.in",
-                ".alibabacloud.com",
-                ".alibabacloud.com.au",
-                ".alibabacloud.com.hk",
-                ".alibabacloud.com.my",
-                ".alibabacloud.com.sg",
-                ".alibabacloud.com.tw",
-                ".alicloud.com",
                 ".ap-southeast-1.aliyuncs.com",
                 ".oss-ap-northeast-1.aliyuncs.com",
                 ".oss-ap-northeast-2.aliyuncs.com",
@@ -75,7 +67,15 @@
                 ".oss-eu-west-1.aliyuncs.com",
                 ".oss-me-east-1.aliyuncs.com",
                 ".oss-us-east-1.aliyuncs.com",
-                ".oss-us-west-1.aliyuncs.com"
+                ".oss-us-west-1.aliyuncs.com",
+                ".alibabacloud.co.in",
+                ".alibabacloud.com",
+                ".alibabacloud.com.au",
+                ".alibabacloud.com.hk",
+                ".alibabacloud.com.my",
+                ".alibabacloud.com.sg",
+                ".alibabacloud.com.tw",
+                ".alicloud.com"
             ]
         }
     ]

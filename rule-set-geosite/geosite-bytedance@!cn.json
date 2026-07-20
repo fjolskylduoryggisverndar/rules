@@ -8,13 +8,6 @@
                 "ibytedtos.com",
                 "ibyteimg.com",
                 "bytedance.map.fastly.net",
-                "coze.com",
-                "marscode.com",
-                "trae.ai",
-                "cici.com",
-                "ciciai.com",
-                "ciciaicdn.com",
-                "dola.com",
                 "bytedapm.com",
                 "muscdn.com",
                 "musical.ly",
@@ -49,7 +42,14 @@
                 "roovza-launches.appsflyersdk.com",
                 "roovza.inapps.appsflyersdk.com",
                 "roovza.launches.appsflyersdk.com",
-                "roovza.skadsdk.appsflyersdk.com"
+                "roovza.skadsdk.appsflyersdk.com",
+                "coze.com",
+                "marscode.com",
+                "trae.ai",
+                "cici.com",
+                "ciciai.com",
+                "ciciaicdn.com",
+                "dola.com"
             ],
             "domain_suffix": [
                 ".byteglb.com",
@@ -57,13 +57,6 @@
                 ".byteoversea.net",
                 ".ibytedtos.com",
                 ".ibyteimg.com",
-                ".coze.com",
-                ".marscode.com",
-                ".trae.ai",
-                ".cici.com",
-                ".ciciai.com",
-                ".ciciaicdn.com",
-                ".dola.com",
                 ".bytedapm.com",
                 ".muscdn.com",
                 ".musical.ly",
@@ -93,7 +86,14 @@
                 ".tiktokcdn.com.akamaized.net",
                 ".tiktokcdn.com.edgesuite.net",
                 ".tiktokv.com.edgekey.net",
-                ".tiktokv.com.edgesuite.net"
+                ".tiktokv.com.edgesuite.net",
+                ".coze.com",
+                ".marscode.com",
+                ".trae.ai",
+                ".cici.com",
+                ".ciciai.com",
+                ".ciciaicdn.com",
+                ".dola.com"
             ]
         }
     ]
