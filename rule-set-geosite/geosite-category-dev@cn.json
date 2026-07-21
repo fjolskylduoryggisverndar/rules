@@ -2,6 +2,9 @@
     "rules": [
         {
             "domain": [
+                "jetbrains.com.cn",
+                "cdn.jetbrains.com",
+                "cdn.ampproject.org",
                 "microsoftreactor.cn",
                 "microsoftreactor.com.cn",
                 "reactorms.com.cn",
@@ -10,23 +13,20 @@
                 "researchkit.com.cn",
                 "swiftui.cn",
                 "swiftui.com.cn",
-                "cdn.ampproject.org",
-                "jetbrains.com.cn",
-                "cdn.jetbrains.com",
                 "crashlyticsreports-pa.googleapis.com",
                 "firebase-settings.crashlytics.com",
                 "update.crashlytics.com"
             ],
             "domain_suffix": [
+                ".jetbrains.com.cn",
+                ".cdn.jetbrains.com",
                 ".microsoftreactor.cn",
                 ".microsoftreactor.com.cn",
                 ".reactorms.com.cn",
                 ".researchkit.cn",
                 ".researchkit.com.cn",
                 ".swiftui.cn",
-                ".swiftui.com.cn",
-                ".jetbrains.com.cn",
-                ".cdn.jetbrains.com"
+                ".swiftui.com.cn"
             ]
         }
     ]
