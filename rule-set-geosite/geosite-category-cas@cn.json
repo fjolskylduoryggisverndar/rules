@@ -7,6 +7,9 @@
                 "sectigochina.com",
                 "sectigochina.com.cdn.cloudflare.net",
                 "trust-provider.cn",
+                "sslcom.cn",
+                "dcocsp.cn",
+                "digicert.cn",
                 "pki-goog.l.google.com",
                 "c.pki.goog",
                 "i.pki.goog",
@@ -29,10 +32,7 @@
                 "globalsign.com",
                 "globalsigncdn.com",
                 "cdn.globalsigncdn.com.cdn.cloudflare.net",
-                "crl.globalsign.net",
-                "dcocsp.cn",
-                "digicert.cn",
-                "sslcom.cn"
+                "crl.globalsign.net"
             ],
             "domain_suffix": [
                 ".oemssl.cn",
@@ -40,14 +40,14 @@
                 ".sectigochina.com",
                 ".sectigochina.com.cdn.cloudflare.net",
                 ".trust-provider.cn",
+                ".sslcom.cn",
+                ".dcocsp.cn",
+                ".digicert.cn",
                 ".alphassl.com",
                 ".easy-signing.com",
                 ".globalsign.cn",
                 ".globalsign.com",
-                ".globalsigncdn.com",
-                ".dcocsp.cn",
-                ".digicert.cn",
-                ".sslcom.cn"
+                ".globalsigncdn.com"
             ]
         }
     ]
