@@ -51,7 +51,6 @@
                 "trace.qq.com",
                 "ugdtimg.com",
                 "wit.qq.com",
-                "badjs.weixinbridge.com",
                 "ad.tencentmusic.com",
                 "adstats.tencentmusic.com",
                 "monitor.music.qq.com",
@@ -72,7 +71,8 @@
                 "pb.i.sogou.com",
                 "theta.sogoucdn.com",
                 "uranus.sogou.com",
-                "wuliao.epro.sogou.com"
+                "wuliao.epro.sogou.com",
+                "badjs.weixinbridge.com"
             ],
             "domain_suffix": [
                 ".ad.browser.qq.com",
@@ -124,7 +124,6 @@
                 ".trace.qq.com",
                 ".ugdtimg.com",
                 ".wit.qq.com",
-                ".badjs.weixinbridge.com",
                 ".ad.tencentmusic.com",
                 ".adstats.tencentmusic.com",
                 ".monitor.music.qq.com",
@@ -145,7 +144,8 @@
                 ".pb.i.sogou.com",
                 ".theta.sogoucdn.com",
                 ".uranus.sogou.com",
-                ".wuliao.epro.sogou.com"
+                ".wuliao.epro.sogou.com",
+                ".badjs.weixinbridge.com"
             ]
         }
     ]
