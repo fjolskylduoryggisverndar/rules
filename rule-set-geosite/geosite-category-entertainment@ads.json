@@ -2,22 +2,22 @@
     "rules": [
         {
             "domain": [
-                "ads-pixiv.net",
-                "log-upload-os.hoyoverse.com",
                 "insights-collector.gog.com",
-                "analytics.tiktok.com",
+                "log-upload-os.hoyoverse.com",
                 "disney.my.sentry.io",
+                "ads-pixiv.net",
                 "adeventtracker.spotify.com",
                 "adstudio-assets.scdn.co",
                 "bloodhound.spotify.com",
-                "ads.youtube.com"
+                "ads.youtube.com",
+                "analytics.tiktok.com"
             ],
             "domain_suffix": [
-                ".ads-pixiv.net",
-                ".log-upload-os.hoyoverse.com",
                 ".insights-collector.gog.com",
-                ".analytics.tiktok.com",
-                ".ads.youtube.com"
+                ".log-upload-os.hoyoverse.com",
+                ".ads-pixiv.net",
+                ".ads.youtube.com",
+                ".analytics.tiktok.com"
             ]
         }
     ]
