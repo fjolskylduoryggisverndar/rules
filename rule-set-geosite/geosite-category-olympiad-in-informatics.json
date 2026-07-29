@@ -3,7 +3,7 @@
         {
             "domain": [
                 "hihocoder.com",
-                "jisuanke.com",
+                "kidsccshow.com",
                 "lingkou.xyz",
                 "lingkou.com",
                 "lingkou.cn",
@@ -11,18 +11,19 @@
                 "acwing.com",
                 "adacpp.com",
                 "leetcode-cn.com",
-                "kidsccshow.com",
                 "leetcode.cn",
-                "vijos.org",
+                "jisuanke.com",
+                "xmoj.tech",
                 "oi-wiki.com",
                 "openjudge.cn",
                 "rqnoj.cn",
                 "uoj.ac",
+                "vijos.org",
                 "luogu.com.cn"
             ],
             "domain_suffix": [
                 ".hihocoder.com",
-                ".jisuanke.com",
+                ".kidsccshow.com",
                 ".lingkou.xyz",
                 ".lingkou.com",
                 ".lingkou.cn",
@@ -30,13 +31,14 @@
                 ".acwing.com",
                 ".adacpp.com",
                 ".leetcode-cn.com",
-                ".kidsccshow.com",
                 ".leetcode.cn",
-                ".vijos.org",
+                ".jisuanke.com",
+                ".xmoj.tech",
                 ".oi-wiki.com",
                 ".openjudge.cn",
                 ".rqnoj.cn",
                 ".uoj.ac",
+                ".vijos.org",
                 ".luogu.com.cn"
             ]
         }

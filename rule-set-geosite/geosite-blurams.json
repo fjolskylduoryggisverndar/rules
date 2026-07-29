@@ -1,8 +1,14 @@
 {
     "rules": [
         {
-            "domain": "blurams.com",
-            "domain_suffix": ".blurams.com"
+            "domain": [
+                "blurams.app",
+                "blurams.com"
+            ],
+            "domain_suffix": [
+                ".blurams.app",
+                ".blurams.com"
+            ]
         }
     ]
 }

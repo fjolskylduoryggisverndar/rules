@@ -3,11 +3,13 @@
         {
             "domain": [
                 "grok.com",
+                "grokipedia.com",
                 "x.ai",
                 "grok.x.com"
             ],
             "domain_suffix": [
                 ".grok.com",
+                ".grokipedia.com",
                 ".x.ai",
                 ".grok.x.com"
             ]

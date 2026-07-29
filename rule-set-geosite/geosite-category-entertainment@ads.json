@@ -2,21 +2,21 @@
     "rules": [
         {
             "domain": [
+                "ads.youtube.com",
+                "disney.my.sentry.io",
                 "insights-collector.gog.com",
                 "log-upload-os.hoyoverse.com",
-                "disney.my.sentry.io",
                 "ads-pixiv.net",
                 "adeventtracker.spotify.com",
                 "adstudio-assets.scdn.co",
                 "bloodhound.spotify.com",
-                "ads.youtube.com",
                 "analytics.tiktok.com"
             ],
             "domain_suffix": [
+                ".ads.youtube.com",
                 ".insights-collector.gog.com",
                 ".log-upload-os.hoyoverse.com",
                 ".ads-pixiv.net",
-                ".ads.youtube.com",
                 ".analytics.tiktok.com"
             ]
         }
