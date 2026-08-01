@@ -2,9 +2,6 @@
     "rules": [
         {
             "domain": [
-                "uplaypc-s-ubisoft.cdn.ubi.com",
-                "leagueoflegends.cn",
-                "lpl.com.cn",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -23,7 +20,6 @@
                 "steamchina.com",
                 "gstore.val.manlaxy.com",
                 "yostar.cn",
-                "gog.qtlglb.com",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
                 "miitomo.com.cn",
@@ -37,11 +33,13 @@
                 "mariokart.com.cn",
                 "supermariobros.com.cn",
                 "bluearchive-cn.com",
-                "xboxlive.cn"
+                "uplaypc-s-ubisoft.cdn.ubi.com",
+                "leagueoflegends.cn",
+                "lpl.com.cn",
+                "xboxlive.cn",
+                "gog.qtlglb.com"
             ],
             "domain_suffix": [
-                ".leagueoflegends.cn",
-                ".lpl.com.cn",
                 ".csgo.com.cn",
                 ".csgo.wmsj.cn",
                 ".dota2.com.cn",
@@ -70,6 +68,8 @@
                 ".mariokart.com.cn",
                 ".supermariobros.com.cn",
                 ".bluearchive-cn.com",
+                ".leagueoflegends.cn",
+                ".lpl.com.cn",
                 ".xboxlive.cn"
             ],
             "domain_regex": [
