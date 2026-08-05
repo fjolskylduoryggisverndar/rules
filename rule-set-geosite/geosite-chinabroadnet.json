@@ -2,7 +2,7 @@
     "rules": [
         {
             "domain": [
-                "chn.cn",
+                "cbn.cn",
                 "ahitv.com",
                 "cqccn.com",
                 "sc96655.com",
@@ -12,7 +12,7 @@
                 "gcable.com.cn"
             ],
             "domain_suffix": [
-                ".chn.cn",
+                ".cbn.cn",
                 ".ahitv.com",
                 ".cqccn.com",
                 ".sc96655.com",

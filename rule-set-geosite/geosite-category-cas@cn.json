@@ -17,7 +17,6 @@
                 "sectigochina.com.cdn.cloudflare.net",
                 "trust-provider.cn",
                 "www.entrust.cn",
-                "sslcom.cn",
                 "certs-lb.apple.com.akadns.net",
                 "certs.apple.com",
                 "crl-lb.apple.com.akadns.net",
@@ -32,7 +31,8 @@
                 "globalsign.com",
                 "globalsigncdn.com",
                 "cdn.globalsigncdn.com.cdn.cloudflare.net",
-                "crl.globalsign.net"
+                "crl.globalsign.net",
+                "sslcom.cn"
             ],
             "domain_suffix": [
                 ".dcocsp.cn",
@@ -42,12 +42,12 @@
                 ".sectigochina.com",
                 ".sectigochina.com.cdn.cloudflare.net",
                 ".trust-provider.cn",
-                ".sslcom.cn",
                 ".alphassl.com",
                 ".easy-signing.com",
                 ".globalsign.cn",
                 ".globalsign.com",
-                ".globalsigncdn.com"
+                ".globalsigncdn.com",
+                ".sslcom.cn"
             ]
         }
     ]
