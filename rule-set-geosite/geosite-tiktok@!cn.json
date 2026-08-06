@@ -3,7 +3,6 @@
         {
             "domain": [
                 "bytedapm.com",
-                "byteoversea.com",
                 "muscdn.com",
                 "musical.ly",
                 "tik-tokapi.com",
@@ -41,7 +40,6 @@
             ],
             "domain_suffix": [
                 ".bytedapm.com",
-                ".byteoversea.com",
                 ".muscdn.com",
                 ".musical.ly",
                 ".tik-tokapi.com",

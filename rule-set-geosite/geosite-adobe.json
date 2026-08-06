@@ -182,7 +182,6 @@
                 "businesscatalyst.com",
                 "ccnsite.com",
                 "ccpsx.com",
-                "demdex.net",
                 "dollarfotoclub.com",
                 "dollarphotoclub.com",
                 "dollarphotosclub.com",
@@ -261,6 +260,7 @@
                 "marketo.co.uk",
                 "adobedc.cn",
                 "advertising.adobe.com",
+                "demdex.net",
                 "tubemogul.com"
             ],
             "domain_suffix": [
@@ -310,7 +310,6 @@
                 ".businesscatalyst.com",
                 ".ccnsite.com",
                 ".ccpsx.com",
-                ".demdex.net",
                 ".dollarfotoclub.com",
                 ".dollarphotoclub.com",
                 ".dollarphotosclub.com",
@@ -389,6 +388,7 @@
                 ".marketo.co.uk",
                 ".adobedc.cn",
                 ".advertising.adobe.com",
+                ".demdex.net",
                 ".tubemogul.com"
             ]
         }

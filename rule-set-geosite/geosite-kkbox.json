@@ -6,18 +6,14 @@
                 "kk.stream",
                 "kkbox.com",
                 "kktix.com",
-                "kktv.me",
-                "kkbox.com.tw",
-                "kktv.com.tw"
+                "kkbox.com.tw"
             ],
             "domain_suffix": [
                 ".kfs.io",
                 ".kk.stream",
                 ".kkbox.com",
                 ".kktix.com",
-                ".kktv.me",
-                ".kkbox.com.tw",
-                ".kktv.com.tw"
+                ".kkbox.com.tw"
             ]
         }
     ]

@@ -2,8 +2,6 @@
     "rules": [
         {
             "domain": [
-                "nab.demdex.net",
-                "nationalaustraliaban.tt.omtrdc.net",
                 "mastercard.lu",
                 "mastercard.be",
                 "mastercard.az",

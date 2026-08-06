@@ -8,8 +8,7 @@
                 "fastly.io",
                 "fastly.net",
                 "fastlylabs.com",
-                "fastlylb.net",
-                "zencdn.net"
+                "fastlylb.net"
             ],
             "domain_suffix": [
                 ".fastly-edge.com",
@@ -18,8 +17,7 @@
                 ".fastly.io",
                 ".fastly.net",
                 ".fastlylabs.com",
-                ".fastlylb.net",
-                ".zencdn.net"
+                ".fastlylb.net"
             ]
         }
     ]

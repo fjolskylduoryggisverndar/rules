@@ -21,11 +21,6 @@
                 "cloudflareprod.com",
                 "cloudflarestaging.com",
                 "cloudflarestoragegw.com",
-                "4008-517-517.cn",
-                "mcd.cn",
-                "mcdchina.net",
-                "mcdonalds.com.cn",
-                "starbucks.com.cn",
                 "ntp.aliyun.com",
                 "ntp1.aliyun.com",
                 "ntp2.aliyun.com",
@@ -74,7 +69,12 @@
                 "amzndns-cn.biz",
                 "amzndns-cn.cn",
                 "amzndns-cn.com",
-                "amzndns-cn.net"
+                "amzndns-cn.net",
+                "4008-517-517.cn",
+                "mcd.cn",
+                "mcdchina.net",
+                "mcdonalds.com.cn",
+                "starbucks.com.cn"
             ],
             "domain_suffix": [
                 ".cf-china.info",
@@ -96,11 +96,6 @@
                 ".cloudflareprod.com",
                 ".cloudflarestaging.com",
                 ".cloudflarestoragegw.com",
-                ".4008-517-517.cn",
-                ".mcd.cn",
-                ".mcdchina.net",
-                ".mcdonalds.com.cn",
-                ".starbucks.com.cn",
                 ".cn.pool.ntp.org",
                 ".ntp.neu.edu.cn",
                 ".ntp.ntsc.ac.cn",
@@ -130,7 +125,12 @@
                 ".amzndns-cn.biz",
                 ".amzndns-cn.cn",
                 ".amzndns-cn.com",
-                ".amzndns-cn.net"
+                ".amzndns-cn.net",
+                ".4008-517-517.cn",
+                ".mcd.cn",
+                ".mcdchina.net",
+                ".mcdonalds.com.cn",
+                ".starbucks.com.cn"
             ],
             "domain_regex": [
                 "^.+-mihayo\\.akamaized\\.net$",
