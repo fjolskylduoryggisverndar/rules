@@ -7,11 +7,13 @@
                 "videos-rockstargames-com.akamaized.net",
                 "rockstargames.com",
                 "rockstarnorth.com",
+                "rsg.ms",
                 "rsg.sc"
             ],
             "domain_suffix": [
                 ".rockstargames.com",
                 ".rockstarnorth.com",
+                ".rsg.ms",
                 ".rsg.sc"
             ]
         }
