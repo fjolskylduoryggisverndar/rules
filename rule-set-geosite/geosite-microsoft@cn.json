@@ -87,9 +87,6 @@
                 "vscode.download.prss.microsoft.com",
                 "vz.download.prss.microsoft.com",
                 "windbg.download.prss.microsoft.com",
-                "microsoftnews.cn",
-                "msn.cn",
-                "xboxlive.cn",
                 "21vbc.com",
                 "21vbluecloud.com",
                 "21vbluecloud.net",
@@ -191,7 +188,10 @@
                 "microsoftreactor.cn",
                 "microsoftreactor.com.cn",
                 "reactorms.com.cn",
-                "download.visualstudio.microsoft.com"
+                "download.visualstudio.microsoft.com",
+                "microsoftnews.cn",
+                "msn.cn",
+                "xboxlive.cn"
             ],
             "domain_suffix": [
                 ".dynamics.cn",
@@ -231,9 +231,6 @@
                 ".dcg.microsoft.com",
                 ".dl.delivery.mp.microsoft.com",
                 ".download.windowsupdate.com",
-                ".microsoftnews.cn",
-                ".msn.cn",
-                ".xboxlive.cn",
                 ".21vbc.com",
                 ".21vbluecloud.com",
                 ".21vbluecloud.net",
@@ -332,7 +329,10 @@
                 ".th.bing.com",
                 ".microsoftreactor.cn",
                 ".microsoftreactor.com.cn",
-                ".reactorms.com.cn"
+                ".reactorms.com.cn",
+                ".microsoftnews.cn",
+                ".msn.cn",
+                ".xboxlive.cn"
             ]
         }
     ]
