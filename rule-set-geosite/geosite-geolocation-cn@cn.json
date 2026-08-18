@@ -2,11 +2,6 @@
     "rules": [
         {
             "domain": [
-                "starbucks.com.cn",
-                "4008-517-517.cn",
-                "mcd.cn",
-                "mcdchina.net",
-                "mcdonalds.com.cn",
                 "cf-china.info",
                 "cf-ns.com",
                 "cf-ns.net",
@@ -52,6 +47,11 @@
                 "amzndns-cn.cn",
                 "amzndns-cn.com",
                 "amzndns-cn.net",
+                "starbucks.com.cn",
+                "4008-517-517.cn",
+                "mcd.cn",
+                "mcdchina.net",
+                "mcdonalds.com.cn",
                 "ntp.aliyun.com",
                 "ntp1.aliyun.com",
                 "ntp2.aliyun.com",
@@ -77,11 +77,6 @@
                 "ntp.org.cn"
             ],
             "domain_suffix": [
-                ".starbucks.com.cn",
-                ".4008-517-517.cn",
-                ".mcd.cn",
-                ".mcdchina.net",
-                ".mcdonalds.com.cn",
                 ".cf-china.info",
                 ".cf-ns.com",
                 ".cf-ns.net",
@@ -127,6 +122,11 @@
                 ".amzndns-cn.cn",
                 ".amzndns-cn.com",
                 ".amzndns-cn.net",
+                ".starbucks.com.cn",
+                ".4008-517-517.cn",
+                ".mcd.cn",
+                ".mcdchina.net",
+                ".mcdonalds.com.cn",
                 ".cn.pool.ntp.org",
                 ".ntp.neu.edu.cn",
                 ".ntp.ntsc.ac.cn",
