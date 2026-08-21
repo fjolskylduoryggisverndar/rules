@@ -2,6 +2,7 @@
     "rules": [
         {
             "domain": [
+                "bluearchive-cn.com",
                 "gog.qtlglb.com",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
@@ -17,7 +18,8 @@
                 "supermariobros.com.cn",
                 "leagueoflegends.cn",
                 "lpl.com.cn",
-                "bluearchive-cn.com",
+                "xboxlive.cn",
+                "yostar.cn",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -34,11 +36,10 @@
                 "lv.queniujq.cn",
                 "xz.pphimalayanrt.com",
                 "steamchina.com",
-                "gstore.val.manlaxy.com",
-                "xboxlive.cn",
-                "yostar.cn"
+                "gstore.val.manlaxy.com"
             ],
             "domain_suffix": [
+                ".bluearchive-cn.com",
                 ".legendofzelda.cn",
                 ".legendofzelda.com.cn",
                 ".miitomo.com.cn",
@@ -53,7 +54,8 @@
                 ".supermariobros.com.cn",
                 ".leagueoflegends.cn",
                 ".lpl.com.cn",
-                ".bluearchive-cn.com",
+                ".xboxlive.cn",
+                ".yostar.cn",
                 ".csgo.com.cn",
                 ".csgo.wmsj.cn",
                 ".dota2.com.cn",
@@ -67,9 +69,7 @@
                 ".steampowered.com.8686c.com",
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
-                ".gstore.val.manlaxy.com",
-                ".xboxlive.cn",
-                ".yostar.cn"
+                ".gstore.val.manlaxy.com"
             ],
             "domain_regex": [
                 "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
