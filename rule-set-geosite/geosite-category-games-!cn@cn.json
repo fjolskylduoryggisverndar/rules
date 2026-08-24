@@ -2,8 +2,11 @@
     "rules": [
         {
             "domain": [
+                "leagueoflegends.cn",
+                "lpl.com.cn",
                 "yostar.cn",
                 "bluearchive-cn.com",
+                "gog.qtlglb.com",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
                 "miitomo.com.cn",
@@ -16,7 +19,6 @@
                 "mariokart.cn",
                 "mariokart.com.cn",
                 "supermariobros.com.cn",
-                "gog.qtlglb.com",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -34,11 +36,11 @@
                 "xz.pphimalayanrt.com",
                 "steamchina.com",
                 "gstore.val.manlaxy.com",
-                "leagueoflegends.cn",
-                "lpl.com.cn",
                 "xboxlive.cn"
             ],
             "domain_suffix": [
+                ".leagueoflegends.cn",
+                ".lpl.com.cn",
                 ".yostar.cn",
                 ".bluearchive-cn.com",
                 ".legendofzelda.cn",
@@ -67,8 +69,6 @@
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
                 ".gstore.val.manlaxy.com",
-                ".leagueoflegends.cn",
-                ".lpl.com.cn",
                 ".xboxlive.cn"
             ],
             "domain_regex": [
