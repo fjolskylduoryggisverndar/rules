@@ -3,10 +3,10 @@
         {
             "domain": [
                 "analytics.tiktok.com",
+                "ads.youtube.com",
                 "insights-collector.gog.com",
                 "log-upload-os.hoyoverse.com",
                 "ads-pixiv.net",
-                "ads.youtube.com",
                 "disney.my.sentry.io",
                 "adeventtracker.spotify.com",
                 "adstudio-assets.scdn.co",
@@ -14,10 +14,10 @@
             ],
             "domain_suffix": [
                 ".analytics.tiktok.com",
+                ".ads.youtube.com",
                 ".insights-collector.gog.com",
                 ".log-upload-os.hoyoverse.com",
-                ".ads-pixiv.net",
-                ".ads.youtube.com"
+                ".ads-pixiv.net"
             ]
         }
     ]
