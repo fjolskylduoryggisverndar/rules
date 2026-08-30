@@ -2,17 +2,6 @@
     "rules": [
         {
             "domain": [
-                "certs-lb.apple.com.akadns.net",
-                "certs.apple.com",
-                "crl-lb.apple.com.akadns.net",
-                "crl.apple.com",
-                "ocsp.apple.com",
-                "ocsp2.apple.com",
-                "valid.apple.com",
-                "valid.origin-apple.com.akadns.net",
-                "dcocsp.cn",
-                "digicert.cn",
-                "www.entrust.cn",
                 "pki-goog.l.google.com",
                 "c.pki.goog",
                 "i.pki.goog",
@@ -21,6 +10,7 @@
                 "crls.pki.goog",
                 "ocsp.pki.goog",
                 "sslcom.cn",
+                "www.entrust.cn",
                 "alphassl.com",
                 "easy-signing.com",
                 "globalsign.cn",
@@ -32,11 +22,19 @@
                 "oemssl.cn.cdn.cloudflare.net",
                 "sectigochina.com",
                 "sectigochina.com.cdn.cloudflare.net",
-                "trust-provider.cn"
+                "trust-provider.cn",
+                "certs-lb.apple.com.akadns.net",
+                "certs.apple.com",
+                "crl-lb.apple.com.akadns.net",
+                "crl.apple.com",
+                "ocsp.apple.com",
+                "ocsp2.apple.com",
+                "valid.apple.com",
+                "valid.origin-apple.com.akadns.net",
+                "dcocsp.cn",
+                "digicert.cn"
             ],
             "domain_suffix": [
-                ".dcocsp.cn",
-                ".digicert.cn",
                 ".sslcom.cn",
                 ".alphassl.com",
                 ".easy-signing.com",
@@ -47,7 +45,9 @@
                 ".oemssl.cn.cdn.cloudflare.net",
                 ".sectigochina.com",
                 ".sectigochina.com.cdn.cloudflare.net",
-                ".trust-provider.cn"
+                ".trust-provider.cn",
+                ".dcocsp.cn",
+                ".digicert.cn"
             ]
         }
     ]

@@ -18,11 +18,11 @@
                 "analytics.vk.ru",
                 "stats.vk-portal.net",
                 "target.vk.com",
+                "graph.instagram.com",
+                "graph-fallback.instagram.com",
                 "analytics.facebook.com",
                 "facebookads.com",
-                "pixel.facebook.com",
-                "graph.instagram.com",
-                "graph-fallback.instagram.com"
+                "pixel.facebook.com"
             ],
             "domain_suffix": [
                 ".ads-twitter.com",
@@ -32,11 +32,11 @@
                 ".ms.vk.ru",
                 ".target.vk.ru",
                 ".vk-analytics.ru",
+                ".graph.instagram.com",
+                ".graph-fallback.instagram.com",
                 ".analytics.facebook.com",
                 ".facebookads.com",
-                ".pixel.facebook.com",
-                ".graph.instagram.com",
-                ".graph-fallback.instagram.com"
+                ".pixel.facebook.com"
             ]
         }
     ]
