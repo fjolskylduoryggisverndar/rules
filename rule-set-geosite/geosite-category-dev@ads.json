@@ -6,7 +6,6 @@
                 "copilot-telemetry-service.githubusercontent.com",
                 "copilot-telemetry.githubusercontent.com",
                 "analytics.cloud.unity3d.com",
-                "api2.amplitude.com",
                 "config.uca.cloud.unity3d.com",
                 "cdp.cloud.unity3d.com",
                 "prd-lender.cdp.internal.unity3d.com",
@@ -18,7 +17,6 @@
             "domain_suffix": [
                 ".collector.github.com",
                 ".analytics.cloud.unity3d.com",
-                ".api2.amplitude.com",
                 ".config.uca.cloud.unity3d.com",
                 ".cdp.cloud.unity3d.com",
                 ".prd-lender.cdp.internal.unity3d.com",

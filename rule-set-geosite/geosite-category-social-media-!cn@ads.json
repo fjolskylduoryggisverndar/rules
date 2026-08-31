@@ -2,7 +2,9 @@
     "rules": [
         {
             "domain": [
-                "ads-twitter.com",
+                "analytics.facebook.com",
+                "facebookads.com",
+                "pixel.facebook.com",
                 "adv.vk.com",
                 "analytics.vk.com",
                 "ms.vk.com",
@@ -20,12 +22,12 @@
                 "target.vk.com",
                 "graph.instagram.com",
                 "graph-fallback.instagram.com",
-                "analytics.facebook.com",
-                "facebookads.com",
-                "pixel.facebook.com"
+                "ads-twitter.com"
             ],
             "domain_suffix": [
-                ".ads-twitter.com",
+                ".analytics.facebook.com",
+                ".facebookads.com",
+                ".pixel.facebook.com",
                 ".adv.vk.com",
                 ".analytics.vk.com",
                 ".ms.vk.com",
@@ -34,9 +36,7 @@
                 ".vk-analytics.ru",
                 ".graph.instagram.com",
                 ".graph-fallback.instagram.com",
-                ".analytics.facebook.com",
-                ".facebookads.com",
-                ".pixel.facebook.com"
+                ".ads-twitter.com"
             ]
         }
     ]
