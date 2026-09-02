@@ -3,16 +3,16 @@
         {
             "domain": [
                 "thetype.cloud",
+                "cn-cdn1.skymansion.net",
                 "etnet.com.cn",
                 "etnetchina.com.cn",
-                "cn-cdn1.skymansion.net",
                 "tvbc.com.cn"
             ],
             "domain_suffix": [
                 ".thetype.cloud",
+                ".cn-cdn1.skymansion.net",
                 ".etnet.com.cn",
                 ".etnetchina.com.cn",
-                ".cn-cdn1.skymansion.net",
                 ".tvbc.com.cn"
             ]
         }
