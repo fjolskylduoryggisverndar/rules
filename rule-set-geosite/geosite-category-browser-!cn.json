@@ -9,7 +9,7 @@
                 "basilisk-browser.org",
                 "brave.com",
                 "bromite.org",
-                "censorship.no",
+                "epicbrowser.com",
                 "cromite.org",
                 "decentr.net",
                 "opera.com",
@@ -27,7 +27,6 @@
                 "vivaldi.com",
                 "waterfox.net",
                 "zen-browser.app",
-                "epicbrowser.com",
                 "extendfirefox.com",
                 "firefox.com",
                 "firefox.hu",
@@ -35,6 +34,7 @@
                 "firefoxusercontent.com",
                 "torproject.org",
                 "ceno.app",
+                "censorship.no",
                 "browser.kagi.com"
             ],
             "domain_suffix": [
@@ -44,7 +44,7 @@
                 ".basilisk-browser.org",
                 ".brave.com",
                 ".bromite.org",
-                ".censorship.no",
+                ".epicbrowser.com",
                 ".cromite.org",
                 ".decentr.net",
                 ".opera.com",
@@ -62,7 +62,6 @@
                 ".vivaldi.com",
                 ".waterfox.net",
                 ".zen-browser.app",
-                ".epicbrowser.com",
                 ".extendfirefox.com",
                 ".firefox.com",
                 ".firefox.hu",
@@ -70,6 +69,7 @@
                 ".firefoxusercontent.com",
                 ".torproject.org",
                 ".ceno.app",
+                ".censorship.no",
                 ".browser.kagi.com"
             ]
         }
