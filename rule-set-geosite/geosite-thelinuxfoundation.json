@@ -5,11 +5,8 @@
                 "amp.akamaized.net",
                 "lfai.foundation",
                 "linuxfoundation.org",
-                "kernel.org",
                 "linux.org",
                 "openjsf.org",
-                "mochajs.org",
-                "nodejs.org",
                 "amp.dev",
                 "ampproject.com",
                 "ampproject.net",
@@ -18,16 +15,16 @@
                 "jquery.com",
                 "jquerymobile.com",
                 "jqueryui.com",
+                "mochajs.org",
+                "nodejs.org",
+                "kernel.org",
                 "cdn.ampproject.org"
             ],
             "domain_suffix": [
                 ".lfai.foundation",
                 ".linuxfoundation.org",
-                ".kernel.org",
                 ".linux.org",
                 ".openjsf.org",
-                ".mochajs.org",
-                ".nodejs.org",
                 ".amp.dev",
                 ".ampproject.com",
                 ".ampproject.net",
@@ -35,7 +32,10 @@
                 ".electronjs.org",
                 ".jquery.com",
                 ".jquerymobile.com",
-                ".jqueryui.com"
+                ".jqueryui.com",
+                ".mochajs.org",
+                ".nodejs.org",
+                ".kernel.org"
             ]
         }
     ]
