@@ -3,6 +3,7 @@
         {
             "domain": [
                 "lastfm.freetls.fastly.net",
+                "lastfm-img.freetls.fastly.net",
                 "ws.audioscrobbler.com",
                 "last.fm"
             ],
