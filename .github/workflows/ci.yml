@@ -29,20 +29,35 @@ jobs:
           WORK="$(mktemp -d)"
           trap 'rm -rf "$WORK"' EXIT
 
-          echo "==> Resolving latest tools release"
-          RELEASE_INFO=$(curl -s https://api.github.com/repos/${{ secrets.UPSTREAM_REPO }}/releases/latest)
-          geosite_url=$(printf '%s' "$RELEASE_INFO" | jq -r '.assets[] | select(.name == "sing-geosite-linux-amd64") | .browser_download_url')
-          geoip_url=$(printf '%s' "$RELEASE_INFO" | jq -r '.assets[] | select(.name == "sing-geoip-linux-amd64") | .browser_download_url')
-          if [ -z "$geosite_url" ] || [ -z "$geoip_url" ]; then
-            echo "Failed to resolve tool binary URLs from latest release:"
-            printf '%s\n' "$RELEASE_INFO" | head -30
-            exit 1
-          fi
-
-          echo "==> Downloading parser binaries"
-          curl -fSL --retry 3 -o "$WORK/sing-geosite" "$geosite_url"
-          curl -fSL --retry 3 -o "$WORK/sing-geoip"   "$geoip_url"
+          echo "==> Fetching parser binaries from this repo's own release"
+          # [2026-09-07] The sing-geosite / sing-geoip binaries are attached to THIS
+          # repo's release `tools-v1.26.4` (byte-identical copies of
+          # fjolskylduoryggisverndar/tools v1.26.4) and are fetched with the job's own
+          # GITHUB_TOKEN, so both this repo and `tools` can be private. Bump TOOLS_TAG
+          # when tools ships a new version: download its two assets, `gh release create
+          # tools-vX.Y.Z` here with them, then change the tag below.
+          TOOLS_TAG="tools-v1.26.4"
+          GH_TOKEN="${{ secrets.GITHUB_TOKEN }}" gh release download "$TOOLS_TAG" -R "${{ github.repository }}" \
+            -p sing-geosite-linux-amd64 -p sing-geoip-linux-amd64 -D "$WORK"
+          mv "$WORK/sing-geosite-linux-amd64" "$WORK/sing-geosite"
+          mv "$WORK/sing-geoip-linux-amd64"   "$WORK/sing-geoip"
           chmod +x "$WORK/sing-geosite" "$WORK/sing-geoip"
+          # Previous mechanism (unauthenticated fetch from the public tools repo via the
+          # UPSTREAM_REPO secret), disabled 2026-09-07 and kept verbatim for reference:
+          # echo "==> Resolving latest tools release"
+          # RELEASE_INFO=$(curl -s https://api.github.com/repos/${{ secrets.UPSTREAM_REPO }}/releases/latest)
+          # geosite_url=$(printf '%s' "$RELEASE_INFO" | jq -r '.assets[] | select(.name == "sing-geosite-linux-amd64") | .browser_download_url')
+          # geoip_url=$(printf '%s' "$RELEASE_INFO" | jq -r '.assets[] | select(.name == "sing-geoip-linux-amd64") | .browser_download_url')
+          # if [ -z "$geosite_url" ] || [ -z "$geoip_url" ]; then
+          #   echo "Failed to resolve tool binary URLs from latest release:"
+          #   printf '%s\n' "$RELEASE_INFO" | head -30
+          #   exit 1
+          # fi
+          #
+          # echo "==> Downloading parser binaries"
+          # curl -fSL --retry 3 -o "$WORK/sing-geosite" "$geosite_url"
+          # curl -fSL --retry 3 -o "$WORK/sing-geoip"   "$geoip_url"
+          # chmod +x "$WORK/sing-geosite" "$WORK/sing-geoip"
 
           echo "==> Generating geosite rule-set"
           mkdir -p "$WORK/geosite"
