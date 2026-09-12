@@ -4,10 +4,10 @@
             "domain": [
                 "graph.instagram.com",
                 "graph-fallback.instagram.com",
-                "ads-twitter.com",
                 "analytics.facebook.com",
                 "facebookads.com",
                 "pixel.facebook.com",
+                "ads-twitter.com",
                 "adv.vk.com",
                 "analytics.vk.com",
                 "ms.vk.com",
@@ -27,10 +27,10 @@
             "domain_suffix": [
                 ".graph.instagram.com",
                 ".graph-fallback.instagram.com",
-                ".ads-twitter.com",
                 ".analytics.facebook.com",
                 ".facebookads.com",
                 ".pixel.facebook.com",
+                ".ads-twitter.com",
                 ".adv.vk.com",
                 ".analytics.vk.com",
                 ".ms.vk.com",

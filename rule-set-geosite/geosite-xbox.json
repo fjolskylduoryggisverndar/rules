@@ -2,8 +2,8 @@
     "rules": [
         {
             "domain": [
-                "flightsimulator.azureedge.net",
                 "prodforza.blob.core.windows.net",
+                "flightsimulator.azureedge.net",
                 "gamepass.com",
                 "orithegame.com",
                 "renovacionxboxlive.com",
@@ -27,8 +27,6 @@
                 "xboxservices.com",
                 "xboxstudios.com",
                 "xbx.lv",
-                "asobostudio.com",
-                "flightsimulator.com",
                 "beth.games",
                 "bethesda.net",
                 "bethesdagamestudios.com",
@@ -45,6 +43,8 @@
                 "minecraftservices.com",
                 "minecraftshop.com",
                 "mojang.com",
+                "asobostudio.com",
+                "flightsimulator.com",
                 "xboxlive.cn"
             ],
             "domain_suffix": [
@@ -72,8 +72,6 @@
                 ".xboxservices.com",
                 ".xboxstudios.com",
                 ".xbx.lv",
-                ".asobostudio.com",
-                ".flightsimulator.com",
                 ".beth.games",
                 ".bethesda.net",
                 ".bethesdagamestudios.com",
@@ -90,6 +88,8 @@
                 ".minecraftservices.com",
                 ".minecraftshop.com",
                 ".mojang.com",
+                ".asobostudio.com",
+                ".flightsimulator.com",
                 ".xboxlive.cn"
             ]
         }
