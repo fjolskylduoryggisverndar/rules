@@ -10,13 +10,6 @@
                 "bytedance.map.fastly.net",
                 "capcut.com",
                 "capcutcdn-us.com",
-                "coze.com",
-                "marscode.com",
-                "trae.ai",
-                "cici.com",
-                "ciciai.com",
-                "ciciaicdn.com",
-                "dola.com",
                 "bytedapm.com",
                 "muscdn.com",
                 "musical.ly",
@@ -48,10 +41,18 @@
                 "tiktokv.com.edgekey.net",
                 "tiktokv.com.edgesuite.net",
                 "p16-tiktokcdn-com.akamaized.net",
+                "p16-tiktok-dm-sticker-sign-sg.ibyteimg.com",
                 "roovza-launches.appsflyersdk.com",
                 "roovza.inapps.appsflyersdk.com",
                 "roovza.launches.appsflyersdk.com",
-                "roovza.skadsdk.appsflyersdk.com"
+                "roovza.skadsdk.appsflyersdk.com",
+                "coze.com",
+                "marscode.com",
+                "trae.ai",
+                "cici.com",
+                "ciciai.com",
+                "ciciaicdn.com",
+                "dola.com"
             ],
             "domain_suffix": [
                 ".byteglb.com",
@@ -61,13 +62,6 @@
                 ".ibyteimg.com",
                 ".capcut.com",
                 ".capcutcdn-us.com",
-                ".coze.com",
-                ".marscode.com",
-                ".trae.ai",
-                ".cici.com",
-                ".ciciai.com",
-                ".ciciaicdn.com",
-                ".dola.com",
                 ".bytedapm.com",
                 ".muscdn.com",
                 ".musical.ly",
@@ -97,7 +91,14 @@
                 ".tiktokcdn.com.akamaized.net",
                 ".tiktokcdn.com.edgesuite.net",
                 ".tiktokv.com.edgekey.net",
-                ".tiktokv.com.edgesuite.net"
+                ".tiktokv.com.edgesuite.net",
+                ".coze.com",
+                ".marscode.com",
+                ".trae.ai",
+                ".cici.com",
+                ".ciciai.com",
+                ".ciciaicdn.com",
+                ".dola.com"
             ]
         }
     ]
