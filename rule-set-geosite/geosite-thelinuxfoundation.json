@@ -8,6 +8,7 @@
                 "kernel.org",
                 "linux.org",
                 "openjsf.org",
+                "nodejs.org",
                 "amp.dev",
                 "ampproject.com",
                 "ampproject.net",
@@ -17,7 +18,6 @@
                 "jquerymobile.com",
                 "jqueryui.com",
                 "mochajs.org",
-                "nodejs.org",
                 "cdn.ampproject.org"
             ],
             "domain_suffix": [
@@ -26,6 +26,7 @@
                 ".kernel.org",
                 ".linux.org",
                 ".openjsf.org",
+                ".nodejs.org",
                 ".amp.dev",
                 ".ampproject.com",
                 ".ampproject.net",
@@ -34,8 +35,7 @@
                 ".jquery.com",
                 ".jquerymobile.com",
                 ".jqueryui.com",
-                ".mochajs.org",
-                ".nodejs.org"
+                ".mochajs.org"
             ]
         }
     ]
