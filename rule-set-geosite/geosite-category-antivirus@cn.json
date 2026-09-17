@@ -2,7 +2,6 @@
     "rules": [
         {
             "domain": [
-                "cn.eset.com",
                 "kaspersky.com.cn",
                 "activation-v2.kaspersky.com",
                 "activation-v2.geo.kaspersky.com",
@@ -99,11 +98,12 @@
                 "s16.upd.kaspersky.com",
                 "s17.upd.kaspersky.com",
                 "s18.upd.kaspersky.com",
-                "s19.upd.kaspersky.com"
+                "s19.upd.kaspersky.com",
+                "cn.eset.com"
             ],
             "domain_suffix": [
-                ".cn.eset.com",
-                ".kaspersky.com.cn"
+                ".kaspersky.com.cn",
+                ".cn.eset.com"
             ]
         }
     ]
