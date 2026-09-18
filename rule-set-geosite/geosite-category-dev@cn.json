@@ -2,6 +2,12 @@
     "rules": [
         {
             "domain": [
+                "microsoftreactor.cn",
+                "microsoftreactor.com.cn",
+                "reactorms.com.cn",
+                "download.visualstudio.microsoft.com",
+                "jetbrains.com.cn",
+                "cdn.jetbrains.com",
                 "crashlyticsreports-pa.googleapis.com",
                 "firebase-settings.crashlytics.com",
                 "update.crashlytics.com",
@@ -19,24 +25,18 @@
                 "researchkit.com.cn",
                 "swiftui.cn",
                 "swiftui.com.cn",
-                "jetbrains.com.cn",
-                "cdn.jetbrains.com",
-                "microsoftreactor.cn",
-                "microsoftreactor.com.cn",
-                "reactorms.com.cn",
-                "download.visualstudio.microsoft.com",
                 "cdn.ampproject.org"
             ],
             "domain_suffix": [
+                ".microsoftreactor.cn",
+                ".microsoftreactor.com.cn",
+                ".reactorms.com.cn",
+                ".jetbrains.com.cn",
+                ".cdn.jetbrains.com",
                 ".researchkit.cn",
                 ".researchkit.com.cn",
                 ".swiftui.cn",
-                ".swiftui.com.cn",
-                ".jetbrains.com.cn",
-                ".cdn.jetbrains.com",
-                ".microsoftreactor.cn",
-                ".microsoftreactor.com.cn",
-                ".reactorms.com.cn"
+                ".swiftui.com.cn"
             ]
         }
     ]
