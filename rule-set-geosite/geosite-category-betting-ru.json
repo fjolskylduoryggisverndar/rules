@@ -2,10 +2,6 @@
     "rules": [
         {
             "domain": [
-                "bk6bba-resources.com",
-                "bk6bba-resources.ru",
-                "fon.bet",
-                "fon.promo",
                 "ligadobra.ru",
                 "ligastavok-csr.ru",
                 "ligastavok.ru",
@@ -14,13 +10,13 @@
                 "winline.ru",
                 "winlinebet.ru",
                 "betboom.ru",
-                "mobile-bb.com"
+                "mobile-bb.com",
+                "bk6bba-resources.com",
+                "bk6bba-resources.ru",
+                "fon.bet",
+                "fon.promo"
             ],
             "domain_suffix": [
-                ".bk6bba-resources.com",
-                ".bk6bba-resources.ru",
-                ".fon.bet",
-                ".fon.promo",
                 ".ligadobra.ru",
                 ".ligastavok-csr.ru",
                 ".ligastavok.ru",
@@ -29,7 +25,11 @@
                 ".winline.ru",
                 ".winlinebet.ru",
                 ".betboom.ru",
-                ".mobile-bb.com"
+                ".mobile-bb.com",
+                ".bk6bba-resources.com",
+                ".bk6bba-resources.ru",
+                ".fon.bet",
+                ".fon.promo"
             ]
         }
     ]
