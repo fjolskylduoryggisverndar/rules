@@ -51,8 +51,7 @@
                 "wangmeng.baidu.com",
                 "wkctj.baidu.com",
                 "wm.baidu.com",
-                "zz.bdstatic.com",
-                "syh.zybang.com"
+                "zz.bdstatic.com"
             ],
             "domain_suffix": [
                 ".adscdn.baidu.com",
@@ -104,8 +103,7 @@
                 ".wangmeng.baidu.com",
                 ".wkctj.baidu.com",
                 ".wm.baidu.com",
-                ".zz.bdstatic.com",
-                ".syh.zybang.com"
+                ".zz.bdstatic.com"
             ]
         }
     ]

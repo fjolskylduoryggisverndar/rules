@@ -13,12 +13,12 @@
                 "oracleinfinity.io",
                 "covid19-rx.org",
                 "virtualbox.org",
-                "addthis.com",
-                "addthiscdn.com",
-                "addthisedge.com",
                 "ateam-oracle.com",
                 "java.com",
-                "java.net"
+                "java.net",
+                "addthis.com",
+                "addthiscdn.com",
+                "addthisedge.com"
             ],
             "domain_suffix": [
                 ".oracle",
@@ -34,12 +34,12 @@
                 ".oracleinfinity.io",
                 ".covid19-rx.org",
                 ".virtualbox.org",
-                ".addthis.com",
-                ".addthiscdn.com",
-                ".addthisedge.com",
                 ".ateam-oracle.com",
                 ".java.com",
-                ".java.net"
+                ".java.net",
+                ".addthis.com",
+                ".addthiscdn.com",
+                ".addthisedge.com"
             ]
         }
     ]

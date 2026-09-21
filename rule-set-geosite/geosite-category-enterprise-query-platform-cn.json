@@ -2,33 +2,33 @@
     "rules": [
         {
             "domain": [
-                "qichamao.com",
+                "jindidata.com",
                 "qyyjt.cn",
                 "x315.com",
                 "xcc.cn",
                 "xinchacha.com",
-                "qcc.com",
-                "qichacha.com",
                 "qixin.com",
-                "jindidata.com",
+                "qichamao.com",
                 "tianyancha.com",
                 "aiqicha.cn",
                 "aiqicha.com",
+                "qcc.com",
+                "qichacha.com",
                 "aiqicha.baidu.com"
             ],
             "domain_suffix": [
-                ".qichamao.com",
+                ".jindidata.com",
                 ".qyyjt.cn",
                 ".x315.com",
                 ".xcc.cn",
                 ".xinchacha.com",
-                ".qcc.com",
-                ".qichacha.com",
                 ".qixin.com",
-                ".jindidata.com",
+                ".qichamao.com",
                 ".tianyancha.com",
                 ".aiqicha.cn",
                 ".aiqicha.com",
+                ".qcc.com",
+                ".qichacha.com",
                 ".aiqicha.baidu.com"
             ]
         }

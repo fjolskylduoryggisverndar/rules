@@ -2,8 +2,8 @@
     "rules": [
         {
             "domain": [
-                "viju.ru",
-                "kinopoisk.ru",
+                "cdnvideo.ru",
+                "cdnvideohub.com",
                 "kinescopecdn.net",
                 "trbcdn.net",
                 "kinorium.com",
@@ -16,11 +16,9 @@
                 "smotreshka.tv",
                 "start.ru",
                 "tvigle.ru",
-                "cdnvideohub.com",
-                "cdnvideo.ru",
-                "okkoapi.tv",
-                "rutube.sport",
+                "viju.ru",
                 "promodj.com",
+                "okkoapi.tv",
                 "playfamily.ru",
                 "okko.sport",
                 "okko.tv",
@@ -32,11 +30,13 @@
                 "rutube.ru",
                 "rutubelist.ru",
                 "rtbcdn.ru",
+                "rutube.sport",
+                "kinopoisk.ru",
                 "kinopoisk-ru.clstorage.net"
             ],
             "domain_suffix": [
-                ".viju.ru",
-                ".kinopoisk.ru",
+                ".cdnvideo.ru",
+                ".cdnvideohub.com",
                 ".kinescopecdn.net",
                 ".trbcdn.net",
                 ".kinorium.com",
@@ -49,11 +49,9 @@
                 ".smotreshka.tv",
                 ".start.ru",
                 ".tvigle.ru",
-                ".cdnvideohub.com",
-                ".cdnvideo.ru",
-                ".okkoapi.tv",
-                ".rutube.sport",
+                ".viju.ru",
                 ".promodj.com",
+                ".okkoapi.tv",
                 ".playfamily.ru",
                 ".okko.sport",
                 ".okko.tv",
@@ -65,6 +63,8 @@
                 ".rutube.ru",
                 ".rutubelist.ru",
                 ".rtbcdn.ru",
+                ".rutube.sport",
+                ".kinopoisk.ru",
                 ".kinopoisk-ru.clstorage.net"
             ]
         }

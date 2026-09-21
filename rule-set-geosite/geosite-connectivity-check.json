@@ -10,6 +10,7 @@
                 "edge-http.microsoft.com",
                 "www.qualcomm.com",
                 "connectivity-check.ubuntu.com",
+                "firefox-portal-detection.com",
                 "kuketz.de",
                 "msftconnecttest.com",
                 "msftncsi.com",
@@ -31,6 +32,7 @@
                 "wifi.vivo.com.cn"
             ],
             "domain_suffix": [
+                ".firefox-portal-detection.com",
                 ".kuketz.de",
                 ".msftconnecttest.com",
                 ".msftncsi.com",
