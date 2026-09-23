@@ -2,9 +2,9 @@
     "rules": [
         {
             "domain": [
-                "bluearchive-cn.com",
+                "yostar.cn",
                 "gog.qtlglb.com",
-                "xboxlive.cn",
+                "bluearchive-cn.com",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
                 "miitomo.com.cn",
@@ -17,9 +17,6 @@
                 "mariokart.cn",
                 "mariokart.com.cn",
                 "supermariobros.com.cn",
-                "yostar.cn",
-                "leagueoflegends.cn",
-                "lpl.com.cn",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -36,11 +33,14 @@
                 "lv.queniujq.cn",
                 "xz.pphimalayanrt.com",
                 "steamchina.com",
-                "gstore.val.manlaxy.com"
+                "gstore.val.manlaxy.com",
+                "leagueoflegends.cn",
+                "lpl.com.cn",
+                "xboxlive.cn"
             ],
             "domain_suffix": [
+                ".yostar.cn",
                 ".bluearchive-cn.com",
-                ".xboxlive.cn",
                 ".legendofzelda.cn",
                 ".legendofzelda.com.cn",
                 ".miitomo.com.cn",
@@ -53,9 +53,6 @@
                 ".mariokart.cn",
                 ".mariokart.com.cn",
                 ".supermariobros.com.cn",
-                ".yostar.cn",
-                ".leagueoflegends.cn",
-                ".lpl.com.cn",
                 ".csgo.com.cn",
                 ".csgo.wmsj.cn",
                 ".dota2.com.cn",
@@ -69,7 +66,10 @@
                 ".steampowered.com.8686c.com",
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
-                ".gstore.val.manlaxy.com"
+                ".gstore.val.manlaxy.com",
+                ".leagueoflegends.cn",
+                ".lpl.com.cn",
+                ".xboxlive.cn"
             ],
             "domain_regex": [
                 "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
