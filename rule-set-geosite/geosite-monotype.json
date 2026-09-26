@@ -7,6 +7,7 @@
                 "monotypeimaging.com",
                 "bitstream.com",
                 "itcfonts.com",
+                "fontexplorerx.com",
                 "fonts.com",
                 "fonts.net",
                 "fontbook.com",
@@ -14,14 +15,14 @@
                 "fstopimages.com",
                 "linotype.com",
                 "myfonts.com",
-                "myfonts.net",
-                "fontexplorerx.com"
+                "myfonts.net"
             ],
             "domain_suffix": [
                 ".monotype.com",
                 ".monotypeimaging.com",
                 ".bitstream.com",
                 ".itcfonts.com",
+                ".fontexplorerx.com",
                 ".fonts.com",
                 ".fonts.net",
                 ".fontbook.com",
@@ -29,8 +30,7 @@
                 ".fstopimages.com",
                 ".linotype.com",
                 ".myfonts.com",
-                ".myfonts.net",
-                ".fontexplorerx.com"
+                ".myfonts.net"
             ]
         }
     ]

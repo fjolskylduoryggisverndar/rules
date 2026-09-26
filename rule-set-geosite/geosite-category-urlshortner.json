@@ -2,18 +2,18 @@
     "rules": [
         {
             "domain": [
-                "shorturl.at",
-                "tinyurl.com",
                 "bit.ly",
                 "bitly.com",
-                "bitly.is"
+                "bitly.is",
+                "shorturl.at",
+                "tinyurl.com"
             ],
             "domain_suffix": [
-                ".shorturl.at",
-                ".tinyurl.com",
                 ".bit.ly",
                 ".bitly.com",
-                ".bitly.is"
+                ".bitly.is",
+                ".shorturl.at",
+                ".tinyurl.com"
             ]
         }
     ]
