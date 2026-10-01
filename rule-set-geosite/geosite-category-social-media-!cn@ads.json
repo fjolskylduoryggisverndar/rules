@@ -2,8 +2,6 @@
     "rules": [
         {
             "domain": [
-                "graph.instagram.com",
-                "graph-fallback.instagram.com",
                 "adv.vk.com",
                 "analytics.vk.com",
                 "ms.vk.com",
@@ -22,11 +20,11 @@
                 "analytics.facebook.com",
                 "facebookads.com",
                 "pixel.facebook.com",
+                "graph.instagram.com",
+                "graph-fallback.instagram.com",
                 "ads-twitter.com"
             ],
             "domain_suffix": [
-                ".graph.instagram.com",
-                ".graph-fallback.instagram.com",
                 ".adv.vk.com",
                 ".analytics.vk.com",
                 ".ms.vk.com",
@@ -36,6 +34,8 @@
                 ".analytics.facebook.com",
                 ".facebookads.com",
                 ".pixel.facebook.com",
+                ".graph.instagram.com",
+                ".graph-fallback.instagram.com",
                 ".ads-twitter.com"
             ]
         }
