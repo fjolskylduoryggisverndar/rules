@@ -59,11 +59,11 @@
                 "tracking.mcdonalds.com.cn",
                 "trackingprd.hwwt8.com",
                 "trackserver.shuxinyc.com",
+                "starbucks.com.cn",
                 "4008-517-517.cn",
                 "mcd.cn",
                 "mcdchina.net",
-                "mcdonalds.com.cn",
-                "starbucks.com.cn"
+                "mcdonalds.com.cn"
             ],
             "domain_suffix": [
                 ".yili.com",
@@ -123,11 +123,11 @@
                 ".tracking.mcdonalds.com.cn",
                 ".trackingprd.hwwt8.com",
                 ".trackserver.shuxinyc.com",
+                ".starbucks.com.cn",
                 ".4008-517-517.cn",
                 ".mcd.cn",
                 ".mcdchina.net",
-                ".mcdonalds.com.cn",
-                ".starbucks.com.cn"
+                ".mcdonalds.com.cn"
             ]
         }
     ]
