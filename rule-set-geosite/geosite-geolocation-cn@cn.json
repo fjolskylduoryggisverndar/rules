@@ -70,11 +70,11 @@
                 "ntp.neu.edu.cn",
                 "ntp.ntsc.ac.cn",
                 "ntp.org.cn",
-                "starbucks.com.cn",
                 "4008-517-517.cn",
                 "mcd.cn",
                 "mcdchina.net",
-                "mcdonalds.com.cn"
+                "mcdonalds.com.cn",
+                "starbucks.com.cn"
             ],
             "domain_suffix": [
                 ".a2z.org.cn",
@@ -126,11 +126,11 @@
                 ".ntp.neu.edu.cn",
                 ".ntp.ntsc.ac.cn",
                 ".ntp.org.cn",
-                ".starbucks.com.cn",
                 ".4008-517-517.cn",
                 ".mcd.cn",
                 ".mcdchina.net",
-                ".mcdonalds.com.cn"
+                ".mcdonalds.com.cn",
+                ".starbucks.com.cn"
             ],
             "domain_regex": [
                 ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
