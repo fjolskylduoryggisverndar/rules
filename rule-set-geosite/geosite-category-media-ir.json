@@ -25,11 +25,11 @@
                 "tv3.ir",
                 "tv5.ir",
                 "tv7.ir",
-                "filimo.com",
-                "filimo.school",
                 "aparat.com",
                 "aparatkids.com",
-                "aparatsport.com"
+                "aparatsport.com",
+                "filimo.com",
+                "filimo.school"
             ],
             "domain_suffix": [
                 ".cinematicket.org",
@@ -55,11 +55,11 @@
                 ".tv3.ir",
                 ".tv5.ir",
                 ".tv7.ir",
-                ".filimo.com",
-                ".filimo.school",
                 ".aparat.com",
                 ".aparatkids.com",
-                ".aparatsport.com"
+                ".aparatsport.com",
+                ".filimo.com",
+                ".filimo.school"
             ]
         }
     ]
