@@ -2,6 +2,7 @@
     "rules": [
         {
             "domain": [
+                "gog.qtlglb.com",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
                 "miitomo.com.cn",
@@ -14,8 +15,6 @@
                 "mariokart.cn",
                 "mariokart.com.cn",
                 "supermariobros.com.cn",
-                "leagueoflegends.cn",
-                "lpl.com.cn",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -34,9 +33,10 @@
                 "steamchina.com",
                 "gstore.val.manlaxy.com",
                 "xboxlive.cn",
-                "bluearchive-cn.com",
-                "gog.qtlglb.com",
-                "yostar.cn"
+                "yostar.cn",
+                "leagueoflegends.cn",
+                "lpl.com.cn",
+                "bluearchive-cn.com"
             ],
             "domain_suffix": [
                 ".legendofzelda.cn",
@@ -51,8 +51,6 @@
                 ".mariokart.cn",
                 ".mariokart.com.cn",
                 ".supermariobros.com.cn",
-                ".leagueoflegends.cn",
-                ".lpl.com.cn",
                 ".csgo.com.cn",
                 ".csgo.wmsj.cn",
                 ".dota2.com.cn",
@@ -68,8 +66,10 @@
                 ".steamchina.com",
                 ".gstore.val.manlaxy.com",
                 ".xboxlive.cn",
-                ".bluearchive-cn.com",
-                ".yostar.cn"
+                ".yostar.cn",
+                ".leagueoflegends.cn",
+                ".lpl.com.cn",
+                ".bluearchive-cn.com"
             ],
             "domain_regex": [
                 "^.+-mihayo\\.akamaized\\.net$",

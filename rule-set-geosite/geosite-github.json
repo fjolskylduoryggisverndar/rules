@@ -63,6 +63,7 @@
                 "npm.community",
                 "npmjs.com",
                 "npmjs.org",
+                "cafe.github.com",
                 "collector.github.com",
                 "copilot-telemetry-service.githubusercontent.com",
                 "copilot-telemetry.githubusercontent.com"
@@ -99,6 +100,7 @@
                 ".npm.community",
                 ".npmjs.com",
                 ".npmjs.org",
+                ".cafe.github.com",
                 ".collector.github.com"
             ]
         }

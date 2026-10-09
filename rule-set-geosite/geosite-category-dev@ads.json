@@ -9,10 +9,7 @@
                 "iads.unity3d.com",
                 "perf.cloud.unity3d.com",
                 "perf-events.cloud.unity3d.com",
-                "unityads.unity3d.com",
-                "collector.github.com",
-                "copilot-telemetry-service.githubusercontent.com",
-                "copilot-telemetry.githubusercontent.com"
+                "unityads.unity3d.com"
             ],
             "domain_suffix": [
                 ".analytics.cloud.unity3d.com",
@@ -22,8 +19,7 @@
                 ".iads.unity3d.com",
                 ".perf.cloud.unity3d.com",
                 ".perf-events.cloud.unity3d.com",
-                ".unityads.unity3d.com",
-                ".collector.github.com"
+                ".unityads.unity3d.com"
             ]
         }
     ]
