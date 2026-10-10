@@ -2,21 +2,21 @@
     "rules": [
         {
             "domain": [
-                "ads.sber.ru",
-                "clickstream.sberbank.ru",
                 "neon.click",
                 "sbermarketing.ru",
                 "error-tracking.megamarket.tech",
                 "metrics.21-school.ru",
                 "sentry.sberauto.com",
                 "tracing-http.megamarket.tech",
+                "ads.sber.ru",
+                "clickstream.sberbank.ru",
                 "visor.sberbank.ru"
             ],
             "domain_suffix": [
-                ".ads.sber.ru",
-                ".clickstream.sberbank.ru",
                 ".neon.click",
-                ".sbermarketing.ru"
+                ".sbermarketing.ru",
+                ".ads.sber.ru",
+                ".clickstream.sberbank.ru"
             ]
         }
     ]
