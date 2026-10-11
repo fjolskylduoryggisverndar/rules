@@ -114,6 +114,7 @@
                 "www.destinationurl.com",
                 "www.gstatic.com",
                 "www.pxcc.com",
+                "ggpht.cn",
                 "redirector.c.play.google.com",
                 "pki-goog.l.google.com",
                 "c.pki.goog",
@@ -122,7 +123,6 @@
                 "crl.pki.goog",
                 "crls.pki.goog",
                 "ocsp.pki.goog",
-                "ggpht.cn",
                 "crashlyticsreports-pa.googleapis.com",
                 "firebase-settings.crashlytics.com",
                 "update.crashlytics.com"
