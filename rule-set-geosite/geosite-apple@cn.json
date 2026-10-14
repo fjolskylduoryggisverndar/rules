@@ -209,14 +209,6 @@
                 "beatsbydre.com",
                 "beatsbydre.com.cn",
                 "beatsep.cn",
-                "apple-icloud.cn",
-                "appleicloud.cn",
-                "icloud-apple.cn",
-                "icloud-content.com.cn",
-                "icloud.cn",
-                "icloud.com.cn",
-                "icloud.net.cn",
-                "icloudapple.cn",
                 "apple-itunes.cn",
                 "itunes-apple.cn",
                 "itunesapple.cn",
@@ -297,7 +289,15 @@
                 "valid.apple.com",
                 "valid.origin-apple.com.akadns.net",
                 "amp-api.podcasts.apple.com",
-                "podcasts.apple.com"
+                "podcasts.apple.com",
+                "apple-icloud.cn",
+                "appleicloud.cn",
+                "icloud-apple.cn",
+                "icloud-content.com.cn",
+                "icloud.cn",
+                "icloud.com.cn",
+                "icloud.net.cn",
+                "icloudapple.cn"
             ],
             "domain_suffix": [
                 ".apple.cn",
@@ -345,14 +345,6 @@
                 ".beatsbydre.com",
                 ".beatsbydre.com.cn",
                 ".beatsep.cn",
-                ".apple-icloud.cn",
-                ".appleicloud.cn",
-                ".icloud-apple.cn",
-                ".icloud-content.com.cn",
-                ".icloud.cn",
-                ".icloud.com.cn",
-                ".icloud.net.cn",
-                ".icloudapple.cn",
                 ".apple-itunes.cn",
                 ".itunes-apple.cn",
                 ".itunesapple.cn",
@@ -361,7 +353,15 @@
                 ".researchkit.cn",
                 ".researchkit.com.cn",
                 ".swiftui.cn",
-                ".swiftui.com.cn"
+                ".swiftui.com.cn",
+                ".apple-icloud.cn",
+                ".appleicloud.cn",
+                ".icloud-apple.cn",
+                ".icloud-content.com.cn",
+                ".icloud.cn",
+                ".icloud.com.cn",
+                ".icloud.net.cn",
+                ".icloudapple.cn"
             ]
         }
     ]
