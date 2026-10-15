@@ -15,6 +15,14 @@
                 "ksyun.com",
                 "ksyuncdn.com",
                 "ksyungslb.com",
+                "seasungames.cn",
+                "seasungames.com",
+                "seasunwbl.com",
+                "xishanju.com",
+                "xoyo.com",
+                "xoyocdn.com",
+                "cbjq.com",
+                "testplus.cn",
                 "wps.cn",
                 "wps.com",
                 "wpscdn.cn",
@@ -38,15 +46,7 @@
                 "duba.net",
                 "ijinshan.com",
                 "keniu.com",
-                "yuanqidesk.com",
-                "seasungames.cn",
-                "seasungames.com",
-                "seasunwbl.com",
-                "xishanju.com",
-                "xoyo.com",
-                "xoyocdn.com",
-                "cbjq.com",
-                "testplus.cn"
+                "yuanqidesk.com"
             ],
             "domain_suffix": [
                 ".kimg.cn",
@@ -62,6 +62,14 @@
                 ".ksyun.com",
                 ".ksyuncdn.com",
                 ".ksyungslb.com",
+                ".seasungames.cn",
+                ".seasungames.com",
+                ".seasunwbl.com",
+                ".xishanju.com",
+                ".xoyo.com",
+                ".xoyocdn.com",
+                ".cbjq.com",
+                ".testplus.cn",
                 ".wps.cn",
                 ".wps.com",
                 ".wpscdn.cn",
@@ -85,15 +93,7 @@
                 ".duba.net",
                 ".ijinshan.com",
                 ".keniu.com",
-                ".yuanqidesk.com",
-                ".seasungames.cn",
-                ".seasungames.com",
-                ".seasunwbl.com",
-                ".xishanju.com",
-                ".xoyo.com",
-                ".xoyocdn.com",
-                ".cbjq.com",
-                ".testplus.cn"
+                ".yuanqidesk.com"
             ]
         }
     ]

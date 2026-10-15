@@ -39,8 +39,6 @@
                 "sushiwok.ru",
                 "winelab.ru",
                 "vkusvill.ru",
-                "sokolov.io",
-                "sokolov.ru",
                 "kazanexpress.ru",
                 "magnit.com",
                 "magnit.ru",
@@ -81,6 +79,8 @@
                 "x5q.ru",
                 "x5static.net",
                 "x5w.ru",
+                "sokolov.io",
+                "sokolov.ru",
                 "ads.x5.ru",
                 "ads.x5media.ru",
                 "sentry.x5.ru"
@@ -122,8 +122,6 @@
                 ".sushiwok.ru",
                 ".winelab.ru",
                 ".vkusvill.ru",
-                ".sokolov.io",
-                ".sokolov.ru",
                 ".kazanexpress.ru",
                 ".magnit.com",
                 ".magnit.ru",
@@ -163,7 +161,9 @@
                 ".x5paket.ru",
                 ".x5q.ru",
                 ".x5static.net",
-                ".x5w.ru"
+                ".x5w.ru",
+                ".sokolov.io",
+                ".sokolov.ru"
             ]
         }
     ]
