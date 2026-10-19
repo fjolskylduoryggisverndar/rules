@@ -2,12 +2,34 @@
     "rules": [
         {
             "domain": [
+                "beget.app",
+                "beget.cloud",
                 "beget.com",
-                "beget.ru"
+                "beget.de",
+                "beget.hosting",
+                "beget.pro",
+                "beget.ru",
+                "beget.tech",
+                "begetcdn.cloud",
+                "beserver.ru",
+                "bget.ru",
+                "sprut.io",
+                "xn--90aefb9d.xn--p1ai"
             ],
             "domain_suffix": [
+                ".beget.app",
+                ".beget.cloud",
                 ".beget.com",
-                ".beget.ru"
+                ".beget.de",
+                ".beget.hosting",
+                ".beget.pro",
+                ".beget.ru",
+                ".beget.tech",
+                ".begetcdn.cloud",
+                ".beserver.ru",
+                ".bget.ru",
+                ".sprut.io",
+                ".xn--90aefb9d.xn--p1ai"
             ]
         }
     ]
