@@ -2,6 +2,7 @@
     "rules": [
         {
             "domain": [
+                "yandex-ad.cn",
                 "kaspersky.com.cn",
                 "activation-v2.kaspersky.com",
                 "activation-v2.geo.kaspersky.com",
@@ -98,12 +99,11 @@
                 "s16.upd.kaspersky.com",
                 "s17.upd.kaspersky.com",
                 "s18.upd.kaspersky.com",
-                "s19.upd.kaspersky.com",
-                "yandex-ad.cn"
+                "s19.upd.kaspersky.com"
             ],
             "domain_suffix": [
-                ".kaspersky.com.cn",
-                ".yandex-ad.cn"
+                ".yandex-ad.cn",
+                ".kaspersky.com.cn"
             ]
         }
     ]
