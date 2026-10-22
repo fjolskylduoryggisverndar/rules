@@ -2,6 +2,18 @@
     "rules": [
         {
             "domain": [
+                "ad.games.dmm.com",
+                "bluekai.com",
+                "fout.jp",
+                "gmossp-sp.jp",
+                "i-mobile.co.jp",
+                "im-apps.net",
+                "impact-ad.jp",
+                "ladsp.com",
+                "microad.co.jp",
+                "microad.jp",
+                "socdm.com",
+                "stats.avito.ru",
                 "ad.ozone.ru",
                 "adv.ozon.ru",
                 "agency-adv.ozon.ru",
@@ -34,19 +46,7 @@
                 "marketing-info.wildberries.ru",
                 "marketplace-sentry.wb.ru",
                 "sentry.wb.ru",
-                "web-analytics.wildberries.ru",
-                "stats.avito.ru",
-                "ad.games.dmm.com",
-                "bluekai.com",
-                "fout.jp",
-                "gmossp-sp.jp",
-                "i-mobile.co.jp",
-                "im-apps.net",
-                "impact-ad.jp",
-                "ladsp.com",
-                "microad.co.jp",
-                "microad.jp",
-                "socdm.com"
+                "web-analytics.wildberries.ru"
             ],
             "domain_suffix": [
                 ".ad.games.dmm.com",
