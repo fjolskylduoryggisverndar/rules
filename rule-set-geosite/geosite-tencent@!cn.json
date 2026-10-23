@@ -7,7 +7,6 @@
                 "wetv.vip",
                 "wetvinfo.com",
                 "wetv.qq.com",
-                "webnovel.com",
                 "intltencentcos.com",
                 "ap-hongkong.myqcloud.com",
                 "ap-singapore.myqcloud.com",
@@ -70,14 +69,14 @@
                 "ca.file.myqcloud.com",
                 "ger.file.myqcloud.com",
                 "rumt-sg.com",
-                "rumt-us.com"
+                "rumt-us.com",
+                "webnovel.com"
             ],
             "domain_suffix": [
                 ".tencent.co.id",
                 ".tencent.com.hk",
                 ".wetv.vip",
                 ".wetvinfo.com",
-                ".webnovel.com",
                 ".intltencentcos.com",
                 ".ap-hongkong.myqcloud.com",
                 ".ap-singapore.myqcloud.com",
@@ -140,7 +139,8 @@
                 ".ca.file.myqcloud.com",
                 ".ger.file.myqcloud.com",
                 ".rumt-sg.com",
-                ".rumt-us.com"
+                ".rumt-us.com",
+                ".webnovel.com"
             ]
         }
     ]
