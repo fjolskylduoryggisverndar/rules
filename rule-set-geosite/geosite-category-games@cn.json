@@ -14,9 +14,10 @@
                 "mariokart.cn",
                 "mariokart.com.cn",
                 "supermariobros.com.cn",
-                "xboxlive.cn",
+                "gog.qtlglb.com",
                 "leagueoflegends.cn",
                 "lpl.com.cn",
+                "bluearchive-cn.com",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -34,8 +35,7 @@
                 "xz.pphimalayanrt.com",
                 "steamchina.com",
                 "gstore.val.manlaxy.com",
-                "gog.qtlglb.com",
-                "bluearchive-cn.com",
+                "xboxlive.cn",
                 "yostar.cn"
             ],
             "domain_suffix": [
@@ -51,9 +51,9 @@
                 ".mariokart.cn",
                 ".mariokart.com.cn",
                 ".supermariobros.com.cn",
-                ".xboxlive.cn",
                 ".leagueoflegends.cn",
                 ".lpl.com.cn",
+                ".bluearchive-cn.com",
                 ".csgo.com.cn",
                 ".csgo.wmsj.cn",
                 ".dota2.com.cn",
@@ -68,7 +68,7 @@
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
                 ".gstore.val.manlaxy.com",
-                ".bluearchive-cn.com",
+                ".xboxlive.cn",
                 ".yostar.cn"
             ],
             "domain_regex": [
