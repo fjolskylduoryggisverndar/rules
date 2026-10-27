@@ -75,7 +75,9 @@
                 "microsoftreactor.cn",
                 "microsoftreactor.com.cn",
                 "reactorms.com.cn",
-                "download.visualstudio.microsoft.com"
+                "dc.services.visualstudio.com",
+                "download.visualstudio.microsoft.com",
+                "rt.services.visualstudio.com"
             ],
             "domain_suffix": [
                 ".adaptivecards.io",

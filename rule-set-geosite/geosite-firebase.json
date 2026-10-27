@@ -11,8 +11,6 @@
                 "firebasedynamiclinks.googleapis.com",
                 "firebaseinappmessaging.googleapis.com",
                 "firebaseinstallations.googleapis.com",
-                "firebaselogging-pa.googleapis.com",
-                "firebaselogging.googleapis.com",
                 "firebaseperusertopics-pa.googleapis.com",
                 "firebaseremoteconfig.googleapis.com",
                 "crashlytics.com",
@@ -24,6 +22,8 @@
                 "firebase.google.com",
                 "crashlyticsreports-pa.googleapis.com",
                 "firebase-settings.crashlytics.com",
+                "firebaselogging-pa.googleapis.com",
+                "firebaselogging.googleapis.com",
                 "update.crashlytics.com"
             ],
             "domain_suffix": [

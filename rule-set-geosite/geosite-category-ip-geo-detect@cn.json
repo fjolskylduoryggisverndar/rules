@@ -45,7 +45,6 @@
                 "todetect.cn",
                 "whatip.cn",
                 "whatismyip.com.cn",
-                "testipv6.cn",
                 "ip.3322.net",
                 "ip.gymcalc.cn",
                 "ip.kutool.com",
@@ -55,7 +54,8 @@
                 "ipv6test.wcode.net",
                 "mip.chinaz.com",
                 "v6test.ipgg.cn",
-                "whois.pconline.com.cn"
+                "whois.pconline.com.cn",
+                "testipv6.cn"
             ],
             "domain_suffix": [
                 ".chaip.me",
@@ -101,8 +101,8 @@
                 ".todetect.cn",
                 ".whatip.cn",
                 ".whatismyip.com.cn",
-                ".testipv6.cn",
-                ".whois.pconline.com.cn"
+                ".whois.pconline.com.cn",
+                ".testipv6.cn"
             ]
         }
     ]
