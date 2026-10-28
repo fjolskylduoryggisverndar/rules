@@ -20,6 +20,7 @@
                 "retcode.taobao.com",
                 "v6-adashx.ut.taobao.com",
                 "v6-adashx.ut.cainiao.com",
+                "shuqistat.com",
                 "alog.umeng.com",
                 "alog.umengcloud.com",
                 "alogs.umeng.com",
@@ -47,8 +48,7 @@
                 "v6-adashx.ut.amap.com",
                 "adashx.ut.ele.me",
                 "h-adashx.ut.ele.me",
-                "v6-adashx.ut.ele.me",
-                "shuqistat.com"
+                "v6-adashx.ut.ele.me"
             ],
             "domain_suffix": [
                 ".mmstat.com",
@@ -69,6 +69,7 @@
                 ".retcode.taobao.com",
                 ".v6-adashx.ut.taobao.com",
                 ".v6-adashx.ut.cainiao.com",
+                ".shuqistat.com",
                 ".alog.umeng.com",
                 ".alog.umengcloud.com",
                 ".alogs.umeng.com",
@@ -96,8 +97,7 @@
                 ".v6-adashx.ut.amap.com",
                 ".adashx.ut.ele.me",
                 ".h-adashx.ut.ele.me",
-                ".v6-adashx.ut.ele.me",
-                ".shuqistat.com"
+                ".v6-adashx.ut.ele.me"
             ]
         }
     ]
