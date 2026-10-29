@@ -16,10 +16,10 @@
                 "sngmta.qq.com",
                 "tpstelemetry.tencent.com",
                 "trace.qq.com",
+                "badjs.weixinbridge.com",
                 "monitor.music.qq.com",
                 "report.tencentmusic.com",
-                "stat.y.qq.com",
-                "badjs.weixinbridge.com"
+                "stat.y.qq.com"
             ],
             "domain_suffix": [
                 ".beacon.cdn.qq.com",
@@ -36,10 +36,10 @@
                 ".sngmta.qq.com",
                 ".tpstelemetry.tencent.com",
                 ".trace.qq.com",
+                ".badjs.weixinbridge.com",
                 ".monitor.music.qq.com",
                 ".report.tencentmusic.com",
-                ".stat.y.qq.com",
-                ".badjs.weixinbridge.com"
+                ".stat.y.qq.com"
             ]
         }
     ]

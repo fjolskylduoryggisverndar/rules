@@ -2,13 +2,13 @@
     "rules": [
         {
             "domain": [
-                "cloudflareinsights-cn.com",
                 "meitustat.com",
+                "cloudflareinsights-cn.com",
                 "shuqistat.com"
             ],
             "domain_suffix": [
-                ".cloudflareinsights-cn.com",
                 ".meitustat.com",
+                ".cloudflareinsights-cn.com",
                 ".shuqistat.com"
             ]
         }

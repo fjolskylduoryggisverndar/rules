@@ -2,8 +2,6 @@
     "rules": [
         {
             "domain": [
-                "dc.services.visualstudio.com",
-                "rt.services.visualstudio.com",
                 "cafe.github.com",
                 "collector.github.com",
                 "copilot-telemetry-service.githubusercontent.com",
@@ -15,7 +13,9 @@
                 "update.crashlytics.com",
                 "analytics.cloud.unity3d.com",
                 "perf.cloud.unity3d.com",
-                "perf-events.cloud.unity3d.com"
+                "perf-events.cloud.unity3d.com",
+                "dc.services.visualstudio.com",
+                "rt.services.visualstudio.com"
             ],
             "domain_suffix": [
                 ".cafe.github.com",

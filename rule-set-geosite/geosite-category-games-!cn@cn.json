@@ -2,6 +2,7 @@
     "rules": [
         {
             "domain": [
+                "gog.qtlglb.com",
                 "csgo.com.cn",
                 "csgo.wmsj.cn",
                 "dota2.com.cn",
@@ -19,12 +20,8 @@
                 "xz.pphimalayanrt.com",
                 "steamchina.com",
                 "gstore.val.manlaxy.com",
-                "xboxlive.cn",
                 "yostar.cn",
-                "leagueoflegends.cn",
-                "lpl.com.cn",
                 "bluearchive-cn.com",
-                "gog.qtlglb.com",
                 "legendofzelda.cn",
                 "legendofzelda.com.cn",
                 "miitomo.com.cn",
@@ -36,7 +33,10 @@
                 "xn--mts47c3w9b1qr.cn",
                 "mariokart.cn",
                 "mariokart.com.cn",
-                "supermariobros.com.cn"
+                "supermariobros.com.cn",
+                "leagueoflegends.cn",
+                "lpl.com.cn",
+                "xboxlive.cn"
             ],
             "domain_suffix": [
                 ".csgo.com.cn",
@@ -53,10 +53,7 @@
                 ".steamstatic.com.8686c.com",
                 ".steamchina.com",
                 ".gstore.val.manlaxy.com",
-                ".xboxlive.cn",
                 ".yostar.cn",
-                ".leagueoflegends.cn",
-                ".lpl.com.cn",
                 ".bluearchive-cn.com",
                 ".legendofzelda.cn",
                 ".legendofzelda.com.cn",
@@ -69,7 +66,10 @@
                 ".xn--mts47c3w9b1qr.cn",
                 ".mariokart.cn",
                 ".mariokart.com.cn",
-                ".supermariobros.com.cn"
+                ".supermariobros.com.cn",
+                ".leagueoflegends.cn",
+                ".lpl.com.cn",
+                ".xboxlive.cn"
             ],
             "domain_regex": [
                 "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
