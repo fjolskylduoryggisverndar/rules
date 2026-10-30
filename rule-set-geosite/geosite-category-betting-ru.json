@@ -2,8 +2,6 @@
     "rules": [
         {
             "domain": [
-                "betboom.ru",
-                "mobile-bb.com",
                 "bk6bba-resources.com",
                 "bk6bba-resources.ru",
                 "fon.bet",
@@ -14,11 +12,11 @@
                 "sozvezdie-dobra.ru",
                 "win-line.ru",
                 "winline.ru",
-                "winlinebet.ru"
+                "winlinebet.ru",
+                "betboom.ru",
+                "mobile-bb.com"
             ],
             "domain_suffix": [
-                ".betboom.ru",
-                ".mobile-bb.com",
                 ".bk6bba-resources.com",
                 ".bk6bba-resources.ru",
                 ".fon.bet",
@@ -29,7 +27,9 @@
                 ".sozvezdie-dobra.ru",
                 ".win-line.ru",
                 ".winline.ru",
-                ".winlinebet.ru"
+                ".winlinebet.ru",
+                ".betboom.ru",
+                ".mobile-bb.com"
             ]
         }
     ]
