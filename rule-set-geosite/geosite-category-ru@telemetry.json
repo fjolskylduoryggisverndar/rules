@@ -2,8 +2,6 @@
     "rules": [
         {
             "domain": [
-                "metrika.kontur.ru",
-                "sentry.kontur.host",
                 "error-tracking.megamarket.tech",
                 "metrics.21-school.ru",
                 "sentry.sberauto.com",
@@ -27,10 +25,9 @@
                 "mc.yandex.com",
                 "mc.yandex.net",
                 "mc.yango.com",
-                "sentry.x5.ru",
+                "sentry.iptv.rt.ru",
                 "sentry.mindbox.ru",
                 "sentry.popmechanic.ru",
-                "sentry.iptv.rt.ru",
                 "apptracer.ru",
                 "metrics.viqeo.tv",
                 "sentry-ng.g.smailru.net",
@@ -43,15 +40,18 @@
                 "stats.dev.telega.info",
                 "stats.rustore.ru",
                 "stats.telega.info",
-                "stats.vk-portal.net",
                 "log.dzen.ru",
-                "stats.avito.ru",
+                "stats.vk-portal.net",
+                "sentry.x5.ru",
+                "metrika.kontur.ru",
+                "sentry.kontur.host",
                 "sentry.ozon.ru",
                 "analytics-stage.wildberries.ru",
                 "analytics.wildberries.ru",
                 "marketplace-sentry.wb.ru",
                 "sentry.wb.ru",
-                "web-analytics.wildberries.ru"
+                "web-analytics.wildberries.ru",
+                "stats.avito.ru"
             ],
             "domain_suffix": [
                 ".clickstream.sberbank.ru",

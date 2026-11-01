@@ -3,14 +3,14 @@
         {
             "domain": [
                 "log-upload.mihoyo.com",
-                "insights-collector.gog.com",
+                "sentry.ppy.sh",
                 "log-upload-os.hoyoverse.com",
-                "sentry.ppy.sh"
+                "insights-collector.gog.com"
             ],
             "domain_suffix": [
                 ".log-upload.mihoyo.com",
-                ".insights-collector.gog.com",
-                ".log-upload-os.hoyoverse.com"
+                ".log-upload-os.hoyoverse.com",
+                ".insights-collector.gog.com"
             ]
         }
     ]
