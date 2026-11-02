@@ -8,8 +8,6 @@
                 "data.microsoft.com",
                 "telemetry.microsoft.com",
                 "nelreports.net",
-                "browser.events.data.msn.cn",
-                "browser.events.data.msn.com",
                 "in.applicationinsights.azure.com",
                 "dc.applicationinsights.azure.com",
                 "live.applicationinsights.azure.com",
@@ -18,7 +16,9 @@
                 "copilot-telemetry-service.githubusercontent.com",
                 "copilot-telemetry.githubusercontent.com",
                 "dc.services.visualstudio.com",
-                "rt.services.visualstudio.com"
+                "rt.services.visualstudio.com",
+                "browser.events.data.msn.cn",
+                "browser.events.data.msn.com"
             ],
             "domain_suffix": [
                 ".applicationinsights.io",
@@ -27,11 +27,11 @@
                 ".data.microsoft.com",
                 ".telemetry.microsoft.com",
                 ".nelreports.net",
-                ".browser.events.data.msn.cn",
-                ".browser.events.data.msn.com",
                 ".in.applicationinsights.azure.com",
                 ".cafe.github.com",
-                ".collector.github.com"
+                ".collector.github.com",
+                ".browser.events.data.msn.cn",
+                ".browser.events.data.msn.com"
             ]
         }
     ]

@@ -3,13 +3,13 @@
         {
             "domain": [
                 "cloudflareinsights-cn.com",
-                "meitustat.com",
-                "shuqistat.com"
+                "shuqistat.com",
+                "meitustat.com"
             ],
             "domain_suffix": [
                 ".cloudflareinsights-cn.com",
-                ".meitustat.com",
-                ".shuqistat.com"
+                ".shuqistat.com",
+                ".meitustat.com"
             ]
         }
     ]
