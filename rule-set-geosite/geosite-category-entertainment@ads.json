@@ -5,19 +5,19 @@
                 "ads.youtube.com",
                 "log-upload-os.hoyoverse.com",
                 "insights-collector.gog.com",
-                "ads-pixiv.net",
                 "adeventtracker.spotify.com",
                 "adstudio-assets.scdn.co",
                 "bloodhound.spotify.com",
                 "disney.my.sentry.io",
-                "analytics.tiktok.com"
+                "analytics.tiktok.com",
+                "ads-pixiv.net"
             ],
             "domain_suffix": [
                 ".ads.youtube.com",
                 ".log-upload-os.hoyoverse.com",
                 ".insights-collector.gog.com",
-                ".ads-pixiv.net",
-                ".analytics.tiktok.com"
+                ".analytics.tiktok.com",
+                ".ads-pixiv.net"
             ]
         }
     ]

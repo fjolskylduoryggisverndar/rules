@@ -22,7 +22,8 @@
                 "adashx.ut.ele.me",
                 "h-adashx.ut.ele.me",
                 "v6-adashx.ut.ele.me",
-                "v6-adashx.ut.cainiao.com",
+                "adash-emas.cn-hangzhou.aliyuncs.com",
+                "adash.man.aliyuncs.com",
                 "shuqistat.com",
                 "alog.umeng.com",
                 "alog.umengcloud.com",
@@ -43,12 +44,11 @@
                 "stat.youku.com",
                 "statis.api.3g.youku.com",
                 "v6-adashx.ut.youku.com",
-                "adash-emas.cn-hangzhou.aliyuncs.com",
-                "adash.man.aliyuncs.com",
                 "adashx.ut.amap.com",
                 "dualstack-logs.amap.com",
                 "logs.amap.com",
-                "v6-adashx.ut.amap.com"
+                "v6-adashx.ut.amap.com",
+                "v6-adashx.ut.cainiao.com"
             ],
             "domain_suffix": [
                 ".mmstat.com",
@@ -71,7 +71,8 @@
                 ".adashx.ut.ele.me",
                 ".h-adashx.ut.ele.me",
                 ".v6-adashx.ut.ele.me",
-                ".v6-adashx.ut.cainiao.com",
+                ".adash-emas.cn-hangzhou.aliyuncs.com",
+                ".adash.man.aliyuncs.com",
                 ".shuqistat.com",
                 ".alog.umeng.com",
                 ".alog.umengcloud.com",
@@ -92,12 +93,11 @@
                 ".stat.youku.com",
                 ".statis.api.3g.youku.com",
                 ".v6-adashx.ut.youku.com",
-                ".adash-emas.cn-hangzhou.aliyuncs.com",
-                ".adash.man.aliyuncs.com",
                 ".adashx.ut.amap.com",
                 ".dualstack-logs.amap.com",
                 ".logs.amap.com",
-                ".v6-adashx.ut.amap.com"
+                ".v6-adashx.ut.amap.com",
+                ".v6-adashx.ut.cainiao.com"
             ]
         }
     ]
