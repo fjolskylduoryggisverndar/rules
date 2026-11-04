@@ -2,9 +2,9 @@
     "rules": [
         {
             "domain": [
+                "collector.xhamster.com",
                 "ad-channel.diwodiwo.xyz",
-                "ad-display.diwodiwo.xyz",
-                "collector.xhamster.com"
+                "ad-display.diwodiwo.xyz"
             ],
             "domain_suffix": ".collector.xhamster.com"
         }

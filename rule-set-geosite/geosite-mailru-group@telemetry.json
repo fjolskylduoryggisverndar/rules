@@ -14,8 +14,8 @@
                 "stats.dev.telega.info",
                 "stats.rustore.ru",
                 "stats.telega.info",
-                "stats.vk-portal.net",
-                "log.dzen.ru"
+                "log.dzen.ru",
+                "stats.vk-portal.net"
             ],
             "domain_suffix": [
                 ".apptracer.ru",
