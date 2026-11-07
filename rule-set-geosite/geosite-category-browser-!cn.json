@@ -9,7 +9,7 @@
                 "basilisk-browser.org",
                 "brave.com",
                 "bromite.org",
-                "torproject.org",
+                "librewolf.net",
                 "cromite.org",
                 "decentr.net",
                 "dothq.org",
@@ -26,6 +26,7 @@
                 "vivaldi.com",
                 "waterfox.net",
                 "zen-browser.app",
+                "torproject.org",
                 "ceno.app",
                 "censorship.no",
                 "epicbrowser.com",
@@ -36,7 +37,6 @@
                 "firefoxtweetmachine.com",
                 "firefoxusercontent.com",
                 "librewolf.dev",
-                "librewolf.net",
                 "browser.kagi.com"
             ],
             "domain_suffix": [
@@ -46,7 +46,7 @@
                 ".basilisk-browser.org",
                 ".brave.com",
                 ".bromite.org",
-                ".torproject.org",
+                ".librewolf.net",
                 ".cromite.org",
                 ".decentr.net",
                 ".dothq.org",
@@ -63,6 +63,7 @@
                 ".vivaldi.com",
                 ".waterfox.net",
                 ".zen-browser.app",
+                ".torproject.org",
                 ".ceno.app",
                 ".censorship.no",
                 ".epicbrowser.com",
@@ -73,7 +74,6 @@
                 ".firefoxtweetmachine.com",
                 ".firefoxusercontent.com",
                 ".librewolf.dev",
-                ".librewolf.net",
                 ".browser.kagi.com"
             ]
         }
