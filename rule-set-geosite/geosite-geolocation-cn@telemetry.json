@@ -2,7 +2,6 @@
     "rules": [
         {
             "domain": [
-                "shuqistat.com",
                 "base.api.my7v.com",
                 "dc-conf-o.api.leiniao.com",
                 "dc-conf-t.api.leiniao.com",
@@ -13,10 +12,10 @@
                 "qms-report-o.api.leiniao.com",
                 "qms-report-t.api.leiniao.com",
                 "cloudflareinsights-cn.com",
+                "shuqistat.com",
                 "meitustat.com"
             ],
             "domain_suffix": [
-                ".shuqistat.com",
                 ".base.api.my7v.com",
                 ".dc-conf-o.api.leiniao.com",
                 ".dc-conf-t.api.leiniao.com",
@@ -27,6 +26,7 @@
                 ".qms-report-o.api.leiniao.com",
                 ".qms-report-t.api.leiniao.com",
                 ".cloudflareinsights-cn.com",
+                ".shuqistat.com",
                 ".meitustat.com"
             ]
         }
