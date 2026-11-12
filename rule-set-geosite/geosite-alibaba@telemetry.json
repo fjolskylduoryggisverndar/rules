@@ -23,6 +23,7 @@
                 "adashx.ut.ele.me",
                 "h-adashx.ut.ele.me",
                 "v6-adashx.ut.ele.me",
+                "shuqistat.com",
                 "alog.umeng.com",
                 "alog.umengcloud.com",
                 "alogs.umeng.com",
@@ -34,11 +35,6 @@
                 "ulogs.umengcloud.com",
                 "adash-emas.cn-hangzhou.aliyuncs.com",
                 "adash.man.aliyuncs.com",
-                "adashx.ut.amap.com",
-                "dualstack-logs.amap.com",
-                "logs.amap.com",
-                "v6-adashx.ut.amap.com",
-                "shuqistat.com",
                 "adashx.ut.youku.com",
                 "e.stat.ykimg.com",
                 "h-adashx.ut.youku.com",
@@ -48,7 +44,11 @@
                 "s-adashx.ut.youku.com",
                 "stat.youku.com",
                 "statis.api.3g.youku.com",
-                "v6-adashx.ut.youku.com"
+                "v6-adashx.ut.youku.com",
+                "adashx.ut.amap.com",
+                "dualstack-logs.amap.com",
+                "logs.amap.com",
+                "v6-adashx.ut.amap.com"
             ],
             "domain_suffix": [
                 ".mmstat.com",
@@ -72,6 +72,7 @@
                 ".adashx.ut.ele.me",
                 ".h-adashx.ut.ele.me",
                 ".v6-adashx.ut.ele.me",
+                ".shuqistat.com",
                 ".alog.umeng.com",
                 ".alog.umengcloud.com",
                 ".alogs.umeng.com",
@@ -83,11 +84,6 @@
                 ".ulogs.umengcloud.com",
                 ".adash-emas.cn-hangzhou.aliyuncs.com",
                 ".adash.man.aliyuncs.com",
-                ".adashx.ut.amap.com",
-                ".dualstack-logs.amap.com",
-                ".logs.amap.com",
-                ".v6-adashx.ut.amap.com",
-                ".shuqistat.com",
                 ".adashx.ut.youku.com",
                 ".e.stat.ykimg.com",
                 ".h-adashx.ut.youku.com",
@@ -97,7 +93,11 @@
                 ".s-adashx.ut.youku.com",
                 ".stat.youku.com",
                 ".statis.api.3g.youku.com",
-                ".v6-adashx.ut.youku.com"
+                ".v6-adashx.ut.youku.com",
+                ".adashx.ut.amap.com",
+                ".dualstack-logs.amap.com",
+                ".logs.amap.com",
+                ".v6-adashx.ut.amap.com"
             ]
         }
     ]

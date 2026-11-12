@@ -4,7 +4,6 @@
             "domain": [
                 "amp.akamaized.net",
                 "openjsf.org",
-                "nodejs.org",
                 "amp.dev",
                 "ampproject.com",
                 "ampproject.net",
@@ -14,11 +13,11 @@
                 "jquerymobile.com",
                 "jqueryui.com",
                 "mochajs.org",
+                "nodejs.org",
                 "cdn.ampproject.org"
             ],
             "domain_suffix": [
                 ".openjsf.org",
-                ".nodejs.org",
                 ".amp.dev",
                 ".ampproject.com",
                 ".ampproject.net",
@@ -27,7 +26,8 @@
                 ".jquery.com",
                 ".jquerymobile.com",
                 ".jqueryui.com",
-                ".mochajs.org"
+                ".mochajs.org",
+                ".nodejs.org"
             ]
         }
     ]
