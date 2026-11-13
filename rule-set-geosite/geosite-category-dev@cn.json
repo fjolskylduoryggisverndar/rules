@@ -17,15 +17,15 @@
                 "swiftui.cn",
                 "swiftui.com.cn",
                 "cdn.ampproject.org",
+                "crashlyticsreports-pa.googleapis.com",
+                "firebase-settings.crashlytics.com",
+                "update.crashlytics.com",
                 "microsoftreactor.cn",
                 "microsoftreactor.com.cn",
                 "reactorms.com.cn",
                 "download.visualstudio.microsoft.com",
                 "jetbrains.com.cn",
-                "cdn.jetbrains.com",
-                "crashlyticsreports-pa.googleapis.com",
-                "firebase-settings.crashlytics.com",
-                "update.crashlytics.com"
+                "cdn.jetbrains.com"
             ],
             "domain_suffix": [
                 ".researchkit.cn",

@@ -7,9 +7,6 @@
                 "wetv.vip",
                 "wetvinfo.com",
                 "wetv.qq.com",
-                "tencentgames.com",
-                "levelinfinite.com",
-                "nikke-en.com",
                 "webnovel.com",
                 "intltencentcos.com",
                 "ap-hongkong.myqcloud.com",
@@ -73,16 +70,16 @@
                 "ca.file.myqcloud.com",
                 "ger.file.myqcloud.com",
                 "rumt-sg.com",
-                "rumt-us.com"
+                "rumt-us.com",
+                "tencentgames.com",
+                "levelinfinite.com",
+                "nikke-en.com"
             ],
             "domain_suffix": [
                 ".tencent.co.id",
                 ".tencent.com.hk",
                 ".wetv.vip",
                 ".wetvinfo.com",
-                ".tencentgames.com",
-                ".levelinfinite.com",
-                ".nikke-en.com",
                 ".webnovel.com",
                 ".intltencentcos.com",
                 ".ap-hongkong.myqcloud.com",
@@ -146,7 +143,10 @@
                 ".ca.file.myqcloud.com",
                 ".ger.file.myqcloud.com",
                 ".rumt-sg.com",
-                ".rumt-us.com"
+                ".rumt-us.com",
+                ".tencentgames.com",
+                ".levelinfinite.com",
+                ".nikke-en.com"
             ]
         }
     ]
