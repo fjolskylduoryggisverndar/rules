@@ -2,8 +2,8 @@
     "rules": [
         {
             "domain": [
-                "insights-collector.gog.com",
                 "sentry.ppy.sh",
+                "insights-collector.gog.com",
                 "log-upload-os.hoyoverse.com"
             ],
             "domain_suffix": [
