@@ -4,8 +4,8 @@
             "domain": [
                 "kp-config-smart-tv.akamaized.net",
                 "kp-configs-smart-tv.s3.eu-central-1.amazonaws.com",
-                "cdnvideo.ru",
-                "cdnvideohub.com",
+                "promodj.com",
+                "kinopoisk.ru",
                 "kinescopecdn.net",
                 "trbcdn.net",
                 "kinorium.com",
@@ -20,7 +20,10 @@
                 "start.ru",
                 "tvigle.ru",
                 "viju.ru",
-                "promodj.com",
+                "cdnvideohub.com",
+                "rutube.sport",
+                "cdnvideo.ru",
+                "rtbcdn.ru",
                 "okkoapi.tv",
                 "playfamily.ru",
                 "okko.sport",
@@ -32,15 +35,12 @@
                 "wink.ru",
                 "rutube.ru",
                 "rutubelist.ru",
-                "rtbcdn.ru",
-                "rutube.sport",
-                "kinopoisk.ru",
-                "kinopoisk-ru.clstorage.net",
-                "kp.yandex.net"
+                "kp.yandex.net",
+                "kinopoisk-ru.clstorage.net"
             ],
             "domain_suffix": [
-                ".cdnvideo.ru",
-                ".cdnvideohub.com",
+                ".promodj.com",
+                ".kinopoisk.ru",
                 ".kinescopecdn.net",
                 ".trbcdn.net",
                 ".kinorium.com",
@@ -55,7 +55,10 @@
                 ".start.ru",
                 ".tvigle.ru",
                 ".viju.ru",
-                ".promodj.com",
+                ".cdnvideohub.com",
+                ".rutube.sport",
+                ".cdnvideo.ru",
+                ".rtbcdn.ru",
                 ".okkoapi.tv",
                 ".playfamily.ru",
                 ".okko.sport",
@@ -67,11 +70,8 @@
                 ".wink.ru",
                 ".rutube.ru",
                 ".rutubelist.ru",
-                ".rtbcdn.ru",
-                ".rutube.sport",
-                ".kinopoisk.ru",
-                ".kinopoisk-ru.clstorage.net",
-                ".kp.yandex.net"
+                ".kp.yandex.net",
+                ".kinopoisk-ru.clstorage.net"
             ]
         }
     ]

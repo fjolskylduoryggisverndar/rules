@@ -5,7 +5,8 @@
                 "microsoftreactor.cn",
                 "microsoftreactor.com.cn",
                 "reactorms.com.cn",
-                "download.visualstudio.microsoft.com"
+                "download.visualstudio.microsoft.com",
+                "vscode.download.prss.microsoft.com"
             ],
             "domain_suffix": [
                 ".microsoftreactor.cn",
