@@ -2,7 +2,6 @@
     "rules": [
         {
             "domain": [
-                "cdn.ampproject.org",
                 "jetbrains.com.cn",
                 "cdn.jetbrains.com",
                 "crashlyticsreports-pa.googleapis.com",
@@ -26,7 +25,8 @@
                 "researchkit.cn",
                 "researchkit.com.cn",
                 "swiftui.cn",
-                "swiftui.com.cn"
+                "swiftui.com.cn",
+                "cdn.ampproject.org"
             ],
             "domain_suffix": [
                 ".jetbrains.com.cn",
