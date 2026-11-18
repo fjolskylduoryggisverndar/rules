@@ -2,6 +2,23 @@
     "rules": [
         {
             "domain": [
+                "metrika.kontur.ru",
+                "sentry.kontur.host",
+                "error-tracking.megamarket.tech",
+                "metrics.21-school.ru",
+                "sentry.sberauto.com",
+                "tracing-http.megamarket.tech",
+                "clickstream.sberbank.ru",
+                "sentry.mindbox.ru",
+                "sentry.popmechanic.ru",
+                "sentry.ozon.ru",
+                "analytics-stage.wildberries.ru",
+                "analytics.wildberries.ru",
+                "marketplace-sentry.wb.ru",
+                "sentry.wb.ru",
+                "web-analytics.wildberries.ru",
+                "stats.avito.ru",
+                "sentry.x5.ru",
                 "apptracer.ru",
                 "metrics.viqeo.tv",
                 "sentry-ng.g.smailru.net",
@@ -34,26 +51,10 @@
                 "mc.yandex.com",
                 "mc.yandex.net",
                 "mc.yango.com",
-                "sentry.ozon.ru",
-                "analytics-stage.wildberries.ru",
-                "analytics.wildberries.ru",
-                "marketplace-sentry.wb.ru",
-                "sentry.wb.ru",
-                "web-analytics.wildberries.ru",
-                "stats.avito.ru",
-                "sentry.mindbox.ru",
-                "sentry.popmechanic.ru",
-                "sentry.x5.ru",
-                "error-tracking.megamarket.tech",
-                "metrics.21-school.ru",
-                "sentry.sberauto.com",
-                "tracing-http.megamarket.tech",
-                "clickstream.sberbank.ru",
-                "metrika.kontur.ru",
-                "sentry.kontur.host",
                 "sentry.iptv.rt.ru"
             ],
             "domain_suffix": [
+                ".clickstream.sberbank.ru",
                 ".apptracer.ru",
                 ".metrics.viqeo.tv",
                 ".log.dzen.ru",
@@ -69,8 +70,7 @@
                 ".webvisor.com",
                 ".webvisor.org",
                 ".yandex-metrica.ru",
-                ".yandexmetrica.com",
-                ".clickstream.sberbank.ru"
+                ".yandexmetrica.com"
             ]
         }
     ]
