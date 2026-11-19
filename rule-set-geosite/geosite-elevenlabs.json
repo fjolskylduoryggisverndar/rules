@@ -3,11 +3,13 @@
         {
             "domain": [
                 "elevenlabs.com",
-                "elevenlabs.io"
+                "elevenlabs.io",
+                "elevenlabsusercontent.com"
             ],
             "domain_suffix": [
                 ".elevenlabs.com",
-                ".elevenlabs.io"
+                ".elevenlabs.io",
+                ".elevenlabsusercontent.com"
             ]
         }
     ]

@@ -2,10 +2,10 @@
     "rules": [
         {
             "domain": [
+                "ads-twitter.com",
                 "analytics.facebook.com",
                 "facebookads.com",
                 "pixel.facebook.com",
-                "ads-twitter.com",
                 "adv.vk.com",
                 "analytics.vk.com",
                 "ms.vk.com",
@@ -25,10 +25,10 @@
                 "graph-fallback.instagram.com"
             ],
             "domain_suffix": [
+                ".ads-twitter.com",
                 ".analytics.facebook.com",
                 ".facebookads.com",
                 ".pixel.facebook.com",
-                ".ads-twitter.com",
                 ".adv.vk.com",
                 ".analytics.vk.com",
                 ".ms.vk.com",

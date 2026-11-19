@@ -2,6 +2,8 @@
     "rules": [
         {
             "domain": [
+                "bottod.pro",
+                "vokino.co",
                 "vokino.org",
                 "vokino.pro",
                 "vokino.tv",
@@ -29,6 +31,8 @@
                 "werkecdn.me"
             ],
             "domain_suffix": [
+                ".bottod.pro",
+                ".vokino.co",
                 ".vokino.org",
                 ".vokino.pro",
                 ".vokino.tv",
