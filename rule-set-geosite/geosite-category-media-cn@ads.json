@@ -2,7 +2,6 @@
     "rules": [
         {
             "domain": [
-                "adx.36kr.com",
                 "adnet.sohu.com",
                 "ads.sohu.com",
                 "adv-sv-show.focus.cn",
@@ -19,10 +18,10 @@
                 "qpb1.sohu.com",
                 "reke.at.sohu.com",
                 "track.sohu.com",
+                "adx.36kr.com",
                 "ad.cctv.com"
             ],
             "domain_suffix": [
-                ".adx.36kr.com",
                 ".adnet.sohu.com",
                 ".ads.sohu.com",
                 ".adv-sv-show.focus.cn",
@@ -39,6 +38,7 @@
                 ".qpb1.sohu.com",
                 ".reke.at.sohu.com",
                 ".track.sohu.com",
+                ".adx.36kr.com",
                 ".ad.cctv.com"
             ]
         }
