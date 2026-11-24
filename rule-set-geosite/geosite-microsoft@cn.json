@@ -86,6 +86,14 @@
                 "volic.download.prss.microsoft.com",
                 "vz.download.prss.microsoft.com",
                 "windbg.download.prss.microsoft.com",
+                "bing.com.cn",
+                "cn.bing.com",
+                "cn.bing.net",
+                "cn.mm.bing.net",
+                "ditu.live.com",
+                "r.bing.com",
+                "th.bing.com",
+                "bj1.api.bing.com",
                 "microsoftreactor.cn",
                 "microsoftreactor.com.cn",
                 "reactorms.com.cn",
@@ -182,15 +190,7 @@
                 "azure-dns-7.cn",
                 "azure-dns-8.cn",
                 "azure-dns-9.cn",
-                "azure-dns-10.cn",
-                "bing.com.cn",
-                "cn.bing.com",
-                "cn.bing.net",
-                "cn.mm.bing.net",
-                "ditu.live.com",
-                "r.bing.com",
-                "th.bing.com",
-                "bj1.api.bing.com"
+                "azure-dns-10.cn"
             ],
             "domain_suffix": [
                 ".dynamics.cn",
@@ -230,6 +230,13 @@
                 ".dcg.microsoft.com",
                 ".dl.delivery.mp.microsoft.com",
                 ".download.windowsupdate.com",
+                ".bing.com.cn",
+                ".cn.bing.com",
+                ".cn.bing.net",
+                ".cn.mm.bing.net",
+                ".ditu.live.com",
+                ".r.bing.com",
+                ".th.bing.com",
                 ".microsoftreactor.cn",
                 ".microsoftreactor.com.cn",
                 ".reactorms.com.cn",
@@ -324,14 +331,7 @@
                 ".azure-dns-7.cn",
                 ".azure-dns-8.cn",
                 ".azure-dns-9.cn",
-                ".azure-dns-10.cn",
-                ".bing.com.cn",
-                ".cn.bing.com",
-                ".cn.bing.net",
-                ".cn.mm.bing.net",
-                ".ditu.live.com",
-                ".r.bing.com",
-                ".th.bing.com"
+                ".azure-dns-10.cn"
             ]
         }
     ]
