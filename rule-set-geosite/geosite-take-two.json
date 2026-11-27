@@ -6,9 +6,6 @@
                 "media-rockstargames-com.akamaized.net",
                 "videos-rockstargames-com.akamaized.net",
                 "take2games.com",
-                "zynga.com",
-                "zyngaplayersupport.com",
-                "zyngapoker.com",
                 "2k.com",
                 "2kcoretech.online",
                 "2kct.onl",
@@ -18,13 +15,13 @@
                 "rockstargames.com",
                 "rockstarnorth.com",
                 "rsg.ms",
-                "rsg.sc"
+                "rsg.sc",
+                "zynga.com",
+                "zyngaplayersupport.com",
+                "zyngapoker.com"
             ],
             "domain_suffix": [
                 ".take2games.com",
-                ".zynga.com",
-                ".zyngaplayersupport.com",
-                ".zyngapoker.com",
                 ".2k.com",
                 ".2kcoretech.online",
                 ".2kct.onl",
@@ -34,7 +31,10 @@
                 ".rockstargames.com",
                 ".rockstarnorth.com",
                 ".rsg.ms",
-                ".rsg.sc"
+                ".rsg.sc",
+                ".zynga.com",
+                ".zyngaplayersupport.com",
+                ".zyngapoker.com"
             ]
         }
     ]
