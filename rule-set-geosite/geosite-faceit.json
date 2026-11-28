@@ -2,12 +2,14 @@
     "rules": [
         {
             "domain": [
+                "faceit-cdn.net",
                 "faceit.com",
-                "faceit-cdn.net"
+                "fce.gg"
             ],
             "domain_suffix": [
+                ".faceit-cdn.net",
                 ".faceit.com",
-                ".faceit-cdn.net"
+                ".fce.gg"
             ]
         }
     ]
